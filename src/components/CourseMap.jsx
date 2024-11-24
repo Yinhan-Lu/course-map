@@ -72,16 +72,21 @@ export default function CourseMap() {
     const positions = {};
     const levelHeight = 150;
     const nodeWidth = 120;
-    const mapWidth = containerWidth * 0.7; // Account for the 70% width
+    const mapWidth = containerWidth * 0.7;
+    const verticalNoise = 30; // Maximum vertical offset
     let maxX = 0;
     let maxY = 0;
 
     Object.entries(programStructure.levels).forEach(
       ([level, courses], levelIndex) => {
-        const y = levelIndex * levelHeight + 100;
-        maxY = Math.max(maxY, y + 100);
+        const baseY = levelIndex * levelHeight + 100;
+        maxY = Math.max(maxY, baseY + 100);
 
         courses.forEach((course, index) => {
+          // Add random vertical offset
+          const randomOffset = (Math.random() - 0.5) * verticalNoise;
+          const y = baseY + randomOffset;
+
           const x =
             (index - (courses.length - 1) / 2) * nodeWidth + mapWidth / 2;
           positions[course.course_number] = { x, y };
@@ -205,13 +210,13 @@ export default function CourseMap() {
               <defs>
                 <marker
                   id="arrowhead"
-                  markerWidth="10"
-                  markerHeight="7"
-                  refX="9"
-                  refY="3.5"
-                  orient="auto"
+                  markerWidth="100"
+                  markerHeight="100"
+                  refX="30"
+                  refY="5"
+                  orient="auto-start-reverse"
                 >
-                  <polygon points="0 0, 10 3.5, 0 7" fill="#000" />
+                  <polygon points="0 0, 10 5, 0 10" fill="#000" />
                 </marker>
               </defs>
 
@@ -230,9 +235,9 @@ export default function CourseMap() {
                     opacity={
                       selectedNode
                         ? line.id.includes(selectedNode)
-                          ? 1
-                          : 0.2
-                        : 0.5
+                          ? 2
+                          : 0.1
+                        : 0.01
                     }
                   />
                 ))}
