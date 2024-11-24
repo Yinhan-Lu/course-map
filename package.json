@@ -1,12 +1,12 @@
 {
-  "homepage": "https://yinhan-lu.github.io/coursemap/",
+  "homepage": "https://yinhan-lu.github.io/course-map/",
   "name": "course-map",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build --base=/course-map/",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
