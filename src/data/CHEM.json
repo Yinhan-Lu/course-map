@@ -1,0 +1,957 @@
+[
+    {
+        "course_number": "CHEM 233",
+        "course_title": "Topics in Physical Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-233",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 234",
+        "course_title": "Topics in Organic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-234",
+        "prerequisites": [
+            "CHEM 212"
+        ]
+    },
+    {
+        "course_number": "CHEM 224",
+        "course_title": "Organic Chemistry Laboratory 1 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-224",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 222",
+        "course_title": "Introductory Organic Chemistry 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-222",
+        "prerequisites": [
+            "CHEM 212",
+            "CHEM 242"
+        ]
+    },
+    {
+        "course_number": "CHEM 213",
+        "course_title": "Introductory Physical Chemistry 1: Thermodynamics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-213",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120",
+            "PHYS 102",
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "CHEM 219",
+        "course_title": "Introduction to Atmospheric Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-219",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120",
+            "MATH 139",
+            "MATH 140",
+            "MATH 150"
+        ]
+    },
+    {
+        "course_number": "CHEM 232",
+        "course_title": "Organic Chemistry Principles (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-232",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 214",
+        "course_title": "Physical Chemistry/Biological Sciences 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-214",
+        "prerequisites": [
+            "CHEM 204",
+            "CHEM 223",
+            "CHEM 243"
+        ]
+    },
+    {
+        "course_number": "CHEM 211",
+        "course_title": "Organic Chemistry 1 Lectures (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-211",
+        "prerequisites": [
+            "CHEM 110"
+        ]
+    },
+    {
+        "course_number": "CHEM 180",
+        "course_title": "World of Chemistry: Environment (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-180",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 204",
+        "course_title": "Physical Chemistry/Biological Sciences 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-204",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 181",
+        "course_title": "World of Chemistry: Food (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-181",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 183",
+        "course_title": "World of Chemistry: Drugs (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-183",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 212",
+        "course_title": "Introductory Organic Chemistry 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-212",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 182",
+        "course_title": "World of Chemistry: Technology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-182",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 203",
+        "course_title": "Survey of Physical Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-203",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 120",
+        "course_title": "General Chemistry 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-120",
+        "prerequisites": [
+            "CHEM 110"
+        ]
+    },
+    {
+        "course_number": "CHEM 110",
+        "course_title": "General Chemistry 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-110",
+        "prerequisites": [
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 122",
+        "course_title": "General Chemistry Laboratory 2 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-122",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 112",
+        "course_title": "General Chemistry Laboratory 1 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-112",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 392",
+        "course_title": "Experimental Chemistry 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-392",
+        "prerequisites": [
+            "CHEM 381",
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 367",
+        "course_title": "Instrumental Analysis 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-367",
+        "prerequisites": [
+            "CHEM 267"
+        ]
+    },
+    {
+        "course_number": "CHEM 365",
+        "course_title": "Statistical Thermodynamics (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-365",
+        "prerequisites": [
+            "CHEM 345"
+        ]
+    },
+    {
+        "course_number": "CHEM 355",
+        "course_title": "Applications of Quantum Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-355",
+        "prerequisites": [
+            "CHEM 345",
+            "PHYS 242"
+        ]
+    },
+    {
+        "course_number": "CHEM 362",
+        "course_title": "Advanced Organic Chemistry Laboratory (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-362",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 381",
+        "course_title": "Inorganic Chemistry 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-381",
+        "prerequisites": [
+            "CHEM 281"
+        ]
+    },
+    {
+        "course_number": "CHEM 377",
+        "course_title": "Instrumental Analysis 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-377",
+        "prerequisites": [
+            "CHEM 367"
+        ]
+    },
+    {
+        "course_number": "CHEM 334",
+        "course_title": "Advanced Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-334",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120",
+            "PHYS 101",
+            "PHYS 102",
+            "PHYS 131",
+            "PHYS 142",
+            "CHEM 203",
+            "CHEM 204",
+            "CHEM 213",
+            "CHEM 273",
+            "PHYS 230",
+            "PHYS 232"
+        ]
+    },
+    {
+        "course_number": "CHEM 332",
+        "course_title": "Biological Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-332",
+        "prerequisites": [
+            "CHEM 222",
+            "CHEM 273"
+        ]
+    },
+    {
+        "course_number": "CHEM 281",
+        "course_title": "Inorganic Chemistry 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-281",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 273",
+        "course_title": "Introductory Physical Chemistry 2: Kinetics and Methods (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-273",
+        "prerequisites": [
+            "CHEM 213",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "CHEM 345",
+        "course_title": "Introduction to Quantum Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-345",
+        "prerequisites": [
+            "CHEM 213",
+            "CHEM 273",
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "CHEM 302",
+        "course_title": "Introductory Organic Chemistry 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-302",
+        "prerequisites": [
+            "CHEM 222"
+        ]
+    },
+    {
+        "course_number": "CHEM 297",
+        "course_title": "Introductory Analytical Chemistry Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-297",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120",
+            "CHEM 115"
+        ]
+    },
+    {
+        "course_number": "CHEM 287",
+        "course_title": "Introductory Analytical Chemistry (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-287",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120",
+            "CHEM 115"
+        ]
+    },
+    {
+        "course_number": "CHEM 267",
+        "course_title": "Introductory Chemical Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-267",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 252",
+        "course_title": "Organic Chemistry 2 for Chemistry and Biochemistry (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-252",
+        "prerequisites": [
+            "CHEM 212",
+            "CHEM 242"
+        ]
+    },
+    {
+        "course_number": "CHEM 244",
+        "course_title": "Organic Chemistry Laboratory 2 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-244",
+        "prerequisites": [
+            "CHEM 234"
+        ]
+    },
+    {
+        "course_number": "CHEM 253",
+        "course_title": "Introductory Physical Chemistry Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-253",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 242",
+        "course_title": "Organic Chemistry 1 for Chemistry and Biochemistry (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-242",
+        "prerequisites": [
+            "CHEM 110",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "CHEM 505",
+        "course_title": "Computer Modeling of Molecules and Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-505",
+        "prerequisites": [
+            "CHEM 345",
+            "CHEM 365",
+            "PHYS 329",
+            "COMP 202",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "CHEM 502",
+        "course_title": "Advanced Bio-Organic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-502",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 493",
+        "course_title": "Advanced Physical Chemistry Laboratory (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-493",
+        "prerequisites": [
+            "CHEM 273",
+            "CHEM 345"
+        ]
+    },
+    {
+        "course_number": "CHEM 503",
+        "course_title": "Drug Discovery (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-503",
+        "prerequisites": [
+            "CHEM 302",
+            "BIOL 200",
+            "CHEM 332"
+        ]
+    },
+    {
+        "course_number": "CHEM 480D2",
+        "course_title": "Undergraduate Research Project 2 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-480d2",
+        "prerequisites": [
+            "CHEM 396",
+            "CHEM 470",
+            "CHEM 480D1"
+        ]
+    },
+    {
+        "course_number": "CHEM 482",
+        "course_title": "Organic Chemistry: Natural Products (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-482",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 493D2",
+        "course_title": "Advanced Physical Chemistry Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-493d2",
+        "prerequisites": [
+            "CHEM 493D1"
+        ]
+    },
+    {
+        "course_number": "CHEM 493D1",
+        "course_title": "Advanced Physical Chemistry Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-493d1",
+        "prerequisites": [
+            "CHEM 273",
+            "CHEM 345"
+        ]
+    },
+    {
+        "course_number": "CHEM 480D1",
+        "course_title": "Undergraduate Research Project 2 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-480d1",
+        "prerequisites": [
+            "CHEM 396",
+            "CHEM 470"
+        ]
+    },
+    {
+        "course_number": "CHEM 480",
+        "course_title": "Undergraduate Research Project 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-480",
+        "prerequisites": [
+            "CHEM 396",
+            "CHEM 470"
+        ]
+    },
+    {
+        "course_number": "CHEM 429",
+        "course_title": "Chemistry of Energy, Storage and Utilization. (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-429",
+        "prerequisites": [
+            "CHEM 212",
+            "CHEM 223",
+            "CHEM 243",
+            "CHEM 213",
+            "CHEM 273",
+            "CHEM 204",
+            "CHEM 203"
+        ]
+    },
+    {
+        "course_number": "CHEM 470D2",
+        "course_title": "Research Project 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-470d2",
+        "prerequisites": [
+            "CHEM 470D1"
+        ]
+    },
+    {
+        "course_number": "CHEM 400",
+        "course_title": "Independent Study in Chemistry (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-400",
+        "prerequisites": [
+            "CHEM 243",
+            "CHEM 222",
+            "CHEM 287",
+            "CHEM 281"
+        ]
+    },
+    {
+        "course_number": "CHEM 470D1",
+        "course_title": "Research Project 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-470d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 470",
+        "course_title": "Research Project 1 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-470",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 396",
+        "course_title": "Undergraduate Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-396",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 462",
+        "course_title": "Green Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-462",
+        "prerequisites": [
+            "CHEM 302",
+            "CHEM 381"
+        ]
+    },
+    {
+        "course_number": "CHEM 434",
+        "course_title": "Advanced Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-434",
+        "prerequisites": [
+            "CHEM 203",
+            "CHEM 204",
+            "CHEM 223",
+            "CHEM 214",
+            "CHEM 381"
+        ]
+    },
+    {
+        "course_number": "CHEM 392D1",
+        "course_title": "Experimental Chemistry 1 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-392d1",
+        "prerequisites": [
+            "CHEM 381",
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 392D2",
+        "course_title": "Experimental Chemistry 1 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-392d2",
+        "prerequisites": [
+            "CHEM 392D1"
+        ]
+    },
+    {
+        "course_number": "CHEM 577",
+        "course_title": "Electrochemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-577",
+        "prerequisites": [
+            "CHEM 243",
+            "CHEM 203",
+            "CHEM 204",
+            "CHEM 367",
+            "CHEM 377"
+        ]
+    },
+    {
+        "course_number": "CHEM 575",
+        "course_title": "Chemical Kinetics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-575",
+        "prerequisites": [
+            "CHEM 273",
+            "CHEM 223",
+            "CHEM 243",
+            "CHEM 213"
+        ]
+    },
+    {
+        "course_number": "CHEM 555",
+        "course_title": "Magnetic Resonance Spectroscopy (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-555",
+        "prerequisites": [
+            "CHEM 355"
+        ]
+    },
+    {
+        "course_number": "CHEM 556",
+        "course_title": "Advanced Quantum Mechanics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-556",
+        "prerequisites": [
+            "CHEM 345",
+            "PHYS 242"
+        ]
+    },
+    {
+        "course_number": "CHEM 574",
+        "course_title": "Introductory Polymer Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-574",
+        "prerequisites": [
+            "CHEM 223",
+            "CHEM 243",
+            "CHEM 213",
+            "CHEM 273",
+            "CHEM 233"
+        ]
+    },
+    {
+        "course_number": "CHEM 572",
+        "course_title": "Synthetic Organic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-572",
+        "prerequisites": [
+            "CHEM 382"
+        ]
+    },
+    {
+        "course_number": "CHEM 552",
+        "course_title": "Physical Organic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-552",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 571",
+        "course_title": "Polymer Synthesis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-571",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 540",
+        "course_title": "Advances in Industrial Biotechnology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-540",
+        "prerequisites": [
+            "CHEM 222",
+            "BIOL 200",
+            "CHEM 332"
+        ]
+    },
+    {
+        "course_number": "CHEM 542",
+        "course_title": "Advanced Nucleic Acid Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-542",
+        "prerequisites": [
+            "CHEM 302",
+            "CHEM 332",
+            "BIOL 200",
+            "BIOL 201"
+        ]
+    },
+    {
+        "course_number": "CHEM 522",
+        "course_title": "Stereochemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-522",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 534",
+        "course_title": "Nanoscience and Nanotechnology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-534",
+        "prerequisites": [
+            "CHEM 434",
+            "PHYS 334"
+        ]
+    },
+    {
+        "course_number": "CHEM 533",
+        "course_title": "Small Molecule Crystallography (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-533",
+        "prerequisites": [
+            "CHEM 355"
+        ]
+    },
+    {
+        "course_number": "CHEM 531",
+        "course_title": "Chemistry of Inorganic Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-531",
+        "prerequisites": [
+            "CHEM 381"
+        ]
+    },
+    {
+        "course_number": "CHEM 520",
+        "course_title": "Methods in Chemical Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-520",
+        "prerequisites": [
+            "BIOL 200",
+            "CHEM 345",
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 532",
+        "course_title": "Structural Organic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-532",
+        "prerequisites": [
+            "CHEM 302"
+        ]
+    },
+    {
+        "course_number": "CHEM 519",
+        "course_title": "Advances in Chemistry of Atmosphere (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-519",
+        "prerequisites": [
+            "CHEM 213",
+            "CHEM 273",
+            "MATH 222",
+            "MATH 315"
+        ]
+    },
+    {
+        "course_number": "CHEM 516",
+        "course_title": "Nuclear and Radiochemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-516",
+        "prerequisites": [
+            "CHEM 302",
+            "CHEM 214",
+            "CHEM 281"
+        ]
+    },
+    {
+        "course_number": "CHEM 701",
+        "course_title": "Comprehensive Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-701",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 692",
+        "course_title": "M.Sc. Thesis Research 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-692",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 695",
+        "course_title": "M.Sc. Thesis Research 5 (15 credits)",
+        "credits": 15,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-695",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 694",
+        "course_title": "M.Sc. Thesis Research 4 (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-694",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 691",
+        "course_title": "M.Sc. Thesis Research 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-691",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 693",
+        "course_title": "M.Sc. Thesis Research 3 (9 credits)",
+        "credits": 9,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-693",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 688",
+        "course_title": "Progress Assessment 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-688",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 667",
+        "course_title": "Special Topics 3 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-667",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 666",
+        "course_title": "Special Topics 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-666",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 651",
+        "course_title": "Seminars in Chemistry 2 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-651",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 621",
+        "course_title": "Reaction Mechanisms in Organic Chemistry (5 credits)",
+        "credits": 5,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-621",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 650",
+        "course_title": "Seminars in Chemistry 1 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-650",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 629",
+        "course_title": "Organic Synthesis (5 credits)",
+        "credits": 5,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-629",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 634",
+        "course_title": "Seminar in Advanced Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-634",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 612",
+        "course_title": "Organometallic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-612",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 603",
+        "course_title": "Principles and Applications of Materials Characterization (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-603",
+        "prerequisites": [
+            "CHEM 355"
+        ]
+    },
+    {
+        "course_number": "CHEM 593",
+        "course_title": "Statistical Mechanics and Machine Learning for Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-593",
+        "prerequisites": []
+    },
+    {
+        "course_number": "CHEM 512",
+        "course_title": "Catalysis, Concepts and Applications (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-512",
+        "prerequisites": [
+            "CHEM 381",
+            "CHEM 302",
+            "CHEM 243"
+        ]
+    },
+    {
+        "course_number": "CHEM 591",
+        "course_title": "Bioinorganic Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-591",
+        "prerequisites": [
+            "CHEM 381"
+        ]
+    },
+    {
+        "course_number": "CHEM 585",
+        "course_title": "Colloid Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-585",
+        "prerequisites": [
+            "CHEM 345",
+            "MATH 233",
+            "MATH 315",
+            "PHYS 241",
+            "PHYS 242",
+            "CHEM 223",
+            "CHEM 243",
+            "CHEM 273"
+        ]
+    },
+    {
+        "course_number": "CHEM 582",
+        "course_title": "Supramolecular Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-582",
+        "prerequisites": [
+            "CHEM 222",
+            "CHEM 381"
+        ]
+    },
+    {
+        "course_number": "CHEM 514",
+        "course_title": "Biophysical Chemistry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-514",
+        "prerequisites": [
+            "CHEM 203",
+            "CHEM 204",
+            "CHEM 223",
+            "CHEM 243"
+        ]
+    },
+    {
+        "course_number": "CHEM 702",
+        "course_title": "Progress Assessment 2",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-702",
+        "prerequisites": []
+    }
+]

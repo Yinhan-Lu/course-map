@@ -1,0 +1,915 @@
+[
+    {
+        "course_number": "PHYS 230",
+        "course_title": "Dynamics of Simple Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-230",
+        "prerequisites": [
+            "PHYS 131"
+        ]
+    },
+    {
+        "course_number": "PHYS 241",
+        "course_title": "Signal Processing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-241",
+        "prerequisites": [
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "PHYS 242",
+        "course_title": "Electricity and Magnetism (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-242",
+        "prerequisites": [
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "PHYS 232",
+        "course_title": "Heat and Waves (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-232",
+        "prerequisites": [
+            "PHYS 142",
+            "CHEM 120",
+            "PHYS 230"
+        ]
+    },
+    {
+        "course_number": "PHYS 228",
+        "course_title": "Energy and the Environment (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-228",
+        "prerequisites": [
+            "PHYS 102",
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "PHYS 184",
+        "course_title": "Energy and the Environment (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-184",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 183",
+        "course_title": "The Milky Way Inside and Out (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-183",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 180",
+        "course_title": "Space, Time and Matter (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-180",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 182",
+        "course_title": "Our Evolving Universe (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-182",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 181",
+        "course_title": "Everyday Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-181",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 224",
+        "course_title": "Physics of Music (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-224",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 186",
+        "course_title": "Astrobiology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-186",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 142",
+        "course_title": "Electromagnetism and Optics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-142",
+        "prerequisites": [
+            "PHYS 131"
+        ]
+    },
+    {
+        "course_number": "PHYS 118",
+        "course_title": "E & M Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-118",
+        "prerequisites": [
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "PHYS 117",
+        "course_title": "Mechanics Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-117",
+        "prerequisites": [
+            "PHYS 131"
+        ]
+    },
+    {
+        "course_number": "PHYS 108",
+        "course_title": "E&M Laboratory (Life Sciences) (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-108",
+        "prerequisites": [
+            "PHYS 102"
+        ]
+    },
+    {
+        "course_number": "PHYS 131",
+        "course_title": "Mechanics and Waves (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-131",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 101",
+        "course_title": "Introductory Physics - Mechanics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-101",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 107",
+        "course_title": "Mechanics Laboratory (Life Sciences) (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-107",
+        "prerequisites": [
+            "PHYS 101"
+        ]
+    },
+    {
+        "course_number": "PHYS 102",
+        "course_title": "Introductory Physics - Electromagnetism (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-102",
+        "prerequisites": [
+            "PHYS 101"
+        ]
+    },
+    {
+        "course_number": "PHYS 350",
+        "course_title": "Honours Electricity and Magnetism (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-350",
+        "prerequisites": [
+            "MATH 248",
+            "MATH 325"
+        ]
+    },
+    {
+        "course_number": "PHYS 346",
+        "course_title": "Majors Quantum Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-346",
+        "prerequisites": [
+            "PHYS 230",
+            "PHYS 232",
+            "PHYS 251"
+        ]
+    },
+    {
+        "course_number": "PHYS 352",
+        "course_title": "Honours Electromagnetic Waves (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-352",
+        "prerequisites": [
+            "PHYS 350"
+        ]
+    },
+    {
+        "course_number": "PHYS 351",
+        "course_title": "Honours Classical Mechanics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-351",
+        "prerequisites": [
+            "PHYS 251"
+        ]
+    },
+    {
+        "course_number": "PHYS 342",
+        "course_title": "Majors Electromagnetic Waves (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-342",
+        "prerequisites": [
+            "PHYS 340",
+            "PHYS 242",
+            "MATH 314",
+            "MATH 315"
+        ]
+    },
+    {
+        "course_number": "PHYS 340",
+        "course_title": "Majors Electricity and Magnetism (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-340",
+        "prerequisites": [
+            "PHYS 142",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "PHYS 339",
+        "course_title": "Measurements Laboratory in General Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-339",
+        "prerequisites": [
+            "PHYS 241"
+        ]
+    },
+    {
+        "course_number": "PHYS 329",
+        "course_title": "Statistical Physics with Biophysical Applications (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-329",
+        "prerequisites": [
+            "BIOL 219",
+            "PHYS 253",
+            "PHYS 232",
+            "CHEM 345"
+        ]
+    },
+    {
+        "course_number": "PHYS 321",
+        "course_title": "Data Science and Observational Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-321",
+        "prerequisites": [
+            "COMP 208",
+            "PHYS 257"
+        ]
+    },
+    {
+        "course_number": "PHYS 333",
+        "course_title": "Thermal and Statistical Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-333",
+        "prerequisites": [
+            "PHYS 232"
+        ]
+    },
+    {
+        "course_number": "PHYS 331",
+        "course_title": "Topics in Classical Mechanics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-331",
+        "prerequisites": [
+            "PHYS 230"
+        ]
+    },
+    {
+        "course_number": "PHYS 319",
+        "course_title": "Introduction to Biophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-319",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219",
+            "MATH 222",
+            "PHYS 230",
+            "PHYS 232",
+            "PHYS 253"
+        ]
+    },
+    {
+        "course_number": "PHYS 328",
+        "course_title": "Electronics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-328",
+        "prerequisites": [
+            "PHYS 241"
+        ]
+    },
+    {
+        "course_number": "PHYS 271",
+        "course_title": "Introduction to Quantum Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-271",
+        "prerequisites": [
+            "PHYS 251",
+            "CIVE 281"
+        ]
+    },
+    {
+        "course_number": "PHYS 320",
+        "course_title": "Introductory Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-320",
+        "prerequisites": [
+            "MATH 222",
+            "PHYS 230",
+            "PHYS 260"
+        ]
+    },
+    {
+        "course_number": "PHYS 260",
+        "course_title": "Modern Physics and Relativity (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-260",
+        "prerequisites": [
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "PHYS 258",
+        "course_title": "Experimental Methods 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-258",
+        "prerequisites": [
+            "PHYS 257"
+        ]
+    },
+    {
+        "course_number": "PHYS 251",
+        "course_title": "Honours Classical Mechanics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-251",
+        "prerequisites": [
+            "PHYS 131"
+        ]
+    },
+    {
+        "course_number": "PHYS 253",
+        "course_title": "Thermal Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-253",
+        "prerequisites": [
+            "PHYS 131",
+            "CHEM 120"
+        ]
+    },
+    {
+        "course_number": "PHYS 257",
+        "course_title": "Experimental Methods 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-257",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 514",
+        "course_title": "General Relativity (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-514",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 512",
+        "course_title": "Computational Physics with Applications (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-512",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 519",
+        "course_title": "Advanced Biophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-519",
+        "prerequisites": [
+            "PHYS 329",
+            "PHYS 333",
+            "PHYS 362",
+            "MATH 437",
+            "PHYS 340",
+            "PHYS 350"
+        ]
+    },
+    {
+        "course_number": "PHYS 489",
+        "course_title": "Special Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-489",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 449",
+        "course_title": "Majors Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-449",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 479",
+        "course_title": "Physics Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-479",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 478",
+        "course_title": "Short Research Project (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-478",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 459D2",
+        "course_title": "Research Thesis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-459d2",
+        "prerequisites": [
+            "PHYS 459D1"
+        ]
+    },
+    {
+        "course_number": "PHYS 459D1",
+        "course_title": "Research Thesis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-459d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 457",
+        "course_title": "Honours Quantum Physics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-457",
+        "prerequisites": [
+            "PHYS 357"
+        ]
+    },
+    {
+        "course_number": "PHYS 447",
+        "course_title": "Applications of Quantum Mechanics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-447",
+        "prerequisites": [
+            "PHYS 346",
+            "PHYS 446"
+        ]
+    },
+    {
+        "course_number": "PHYS 469",
+        "course_title": "Advanced Physics Laboratory 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-469",
+        "prerequisites": [
+            "PHYS 258"
+        ]
+    },
+    {
+        "course_number": "PHYS 432",
+        "course_title": "Physics of Fluids (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-432",
+        "prerequisites": [
+            "PHYS 230",
+            "MATH 223",
+            "MATH 314",
+            "MATH 315"
+        ]
+    },
+    {
+        "course_number": "PHYS 357",
+        "course_title": "Honours Quantum Physics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-357",
+        "prerequisites": [
+            "MATH 223",
+            "PHYS 230",
+            "PHYS 251",
+            "CIVE 281"
+        ]
+    },
+    {
+        "course_number": "PHYS 396",
+        "course_title": "Undergraduate Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-396",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 434",
+        "course_title": "Optics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-434",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 359",
+        "course_title": "Advanced Physics Laboratory 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-359",
+        "prerequisites": [
+            "PHYS 258"
+        ]
+    },
+    {
+        "course_number": "PHYS 413",
+        "course_title": "Physical Basis of Physiology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-413",
+        "prerequisites": [
+            "MATH 315",
+            "MATH 325"
+        ]
+    },
+    {
+        "course_number": "PHYS 404",
+        "course_title": "Climate Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-404",
+        "prerequisites": [
+            "PHYS 230",
+            "PHYS 251",
+            "PHYS 232",
+            "PHYS 253",
+            "MATH 315",
+            "MATH 325",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "PHYS 362",
+        "course_title": "Statistical Mechanics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-362",
+        "prerequisites": [
+            "MATH 248",
+            "PHYS 253"
+        ]
+    },
+    {
+        "course_number": "PHYS 634",
+        "course_title": "Seminar in Advanced Materials (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-634",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 616",
+        "course_title": "Multifractals and Turbulence (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-616",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 633",
+        "course_title": "Seminar in Astrophysics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-633",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 632",
+        "course_title": "Seminar in Astrophysics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-632",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 642",
+        "course_title": "Radiative Processes in Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-642",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 620",
+        "course_title": "Experimental Methods of Subatomic Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-620",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 641",
+        "course_title": "Observational Techniques of Modern Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-641",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 562",
+        "course_title": "Electromagnetic Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-562",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 567",
+        "course_title": "Particle Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-567",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 559",
+        "course_title": "Advanced Statistical Mechanics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-559",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 607",
+        "course_title": "Selected Topics: Contemporary Physics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-607",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 606",
+        "course_title": "Selected Topics: Contemporary Physics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-606",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 602",
+        "course_title": "Introduction to Graduate Studies in Physics 2 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-602",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 601",
+        "course_title": "Introduction to Graduate Studies in Physics 1 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-601",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 610",
+        "course_title": "Quantum Field Theory 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-610",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 558",
+        "course_title": "Solid State Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-558",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 557",
+        "course_title": "Nuclear Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-557",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 551",
+        "course_title": "Quantum Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-551",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 534",
+        "course_title": "Nanoscience and Nanotechnology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-534",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 521",
+        "course_title": "Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-521",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 717",
+        "course_title": "Many-body Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-717",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 700",
+        "course_title": "Preliminary Ph.D. Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-700",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 692D2",
+        "course_title": "Thesis Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-692d2",
+        "prerequisites": [
+            "PHYS 692D1"
+        ]
+    },
+    {
+        "course_number": "PHYS 692",
+        "course_title": "Thesis Project (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-692",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 693",
+        "course_title": "M.Sc. Research (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-693",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 692D1",
+        "course_title": "Thesis Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-692d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 690N2",
+        "course_title": "M.Sc. Thesis (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-690n2",
+        "prerequisites": [
+            "PHYS 690N1"
+        ]
+    },
+    {
+        "course_number": "PHYS 691",
+        "course_title": "Thesis Preparation (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-691",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 690N1",
+        "course_title": "M.Sc. Thesis (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-690n1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 690D1",
+        "course_title": "M.Sc. Thesis (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-690d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 690D2",
+        "course_title": "M.Sc. Thesis (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-690d2",
+        "prerequisites": [
+            "PHYS 690D1"
+        ]
+    },
+    {
+        "course_number": "PHYS 690",
+        "course_title": "M.Sc. Thesis (24 credits)",
+        "credits": 24,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-690",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 673",
+        "course_title": "Quantum Field Theory 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-673",
+        "prerequisites": [
+            "PHYS 610"
+        ]
+    },
+    {
+        "course_number": "PHYS 657",
+        "course_title": "Classical Condensed Matter (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-657",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 659",
+        "course_title": "Experimental Condensed Matter (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-659",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 658",
+        "course_title": "Advanced Condensed Matter (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-658",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 660",
+        "course_title": "Quantum Condensed Matter (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-660",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 645",
+        "course_title": "High Energy Astrophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-645",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 644",
+        "course_title": "Galaxies and Cosmology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-644",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 643",
+        "course_title": "Astrophysical Fluids (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-643",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 745",
+        "course_title": "Supersymmetry and Supergravity (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-745",
+        "prerequisites": [
+            "PHYS 610"
+        ]
+    },
+    {
+        "course_number": "PHYS 744",
+        "course_title": "Finite Temperature Field Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-744",
+        "prerequisites": [
+            "PHYS 610"
+        ]
+    },
+    {
+        "course_number": "PHYS 742",
+        "course_title": "Introduction to the Standard Model (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-742",
+        "prerequisites": [
+            "PHYS 610"
+        ]
+    },
+    {
+        "course_number": "PHYS 741",
+        "course_title": "Superstring Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-741",
+        "prerequisites": [
+            "PHYS 610"
+        ]
+    },
+    {
+        "course_number": "PHYS 743",
+        "course_title": "Very Early Universe (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-743",
+        "prerequisites": [
+            "PHYS 514"
+        ]
+    },
+    {
+        "course_number": "PHYS 729",
+        "course_title": "Special Topics in Nuclear Physics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-729",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 731",
+        "course_title": "Special Topics: High Energy Physics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-731",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 730",
+        "course_title": "Special Topics: High Energy Physics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-730",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 719",
+        "course_title": "Special Topics: Solid State Physics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-719",
+        "prerequisites": []
+    },
+    {
+        "course_number": "PHYS 718",
+        "course_title": "Special Topics: Solid State Physics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-718",
+        "prerequisites": []
+    }
+]

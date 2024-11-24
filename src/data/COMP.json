@@ -1,0 +1,1233 @@
+[
+    {
+        "course_number": "COMP 322",
+        "course_title": "Introduction to C++ (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-322",
+        "prerequisites": [
+            "COMP 250",
+            "COMP 206",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "COMP 321",
+        "course_title": "Programming Challenges (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-321",
+        "prerequisites": [
+            "COMP 206"
+        ]
+    },
+    {
+        "course_number": "COMP 310",
+        "course_title": "Operating Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+        "prerequisites": [
+            "COMP 273"
+        ]
+    },
+    {
+        "course_number": "COMP 273",
+        "course_title": "Introduction to Computer Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 308",
+        "course_title": "Computer Systems Lab (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-308",
+        "prerequisites": [
+            "COMP 273"
+        ]
+    },
+    {
+        "course_number": "COMP 307",
+        "course_title": "Principles of Web Development (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-307",
+        "prerequisites": [
+            "COMP 206"
+        ]
+    },
+    {
+        "course_number": "COMP 303",
+        "course_title": "Software Design (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+        "prerequisites": [
+            "COMP 206",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 302",
+        "course_title": "Programming Languages and Paradigms (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+        "prerequisites": [
+            "COMP 250",
+            "MATH 240",
+            "MATH 235",
+            "MATH 318",
+            "COMP 230",
+            "PHIL 210"
+        ]
+    },
+    {
+        "course_number": "COMP 252",
+        "course_title": "Honours Algorithms and Data Structures (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+        "prerequisites": [
+            "COMP 250",
+            "MATH 235",
+            "MATH 240"
+        ]
+    },
+    {
+        "course_number": "COMP 280",
+        "course_title": "History and Philosophy of Computing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-280",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 260",
+        "course_title": "Applied Algorithms and DataStructures (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-260",
+        "prerequisites": [
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 230",
+        "course_title": "Logic and Computability (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-230",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 202",
+        "course_title": "Foundations of Programming (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 251",
+        "course_title": "Algorithms and Data Structures (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+        "prerequisites": [
+            "COMP 250",
+            "MATH 235",
+            "MATH 240"
+        ]
+    },
+    {
+        "course_number": "COMP 204",
+        "course_title": "Computer Programming for Life Sciences (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-204",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 206",
+        "course_title": "Introduction to Software Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+        "prerequisites": [
+            "COMP 202",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 250",
+        "course_title": "Introduction to Computer Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+        "prerequisites": [
+            "MATH 140",
+            "COMP 202",
+            "COMP 204",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "COMP 189",
+        "course_title": "Computers and Society (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-189",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 208",
+        "course_title": "Computer Programming for Physical Sciences and Engineering (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-208",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 445",
+        "course_title": "Computational Linguistics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-445",
+        "prerequisites": [
+            "COMP 250",
+            "MATH 240"
+        ]
+    },
+    {
+        "course_number": "COMP 421",
+        "course_title": "Database Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-421",
+        "prerequisites": [
+            "COMP 206",
+            "COMP 251",
+            "COMP 302"
+        ]
+    },
+    {
+        "course_number": "COMP 424",
+        "course_title": "Artificial Intelligence (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-424",
+        "prerequisites": [
+            "COMP 206",
+            "ECSE 321",
+            "MATH 323",
+            "COMP 251"
+        ]
+    },
+    {
+        "course_number": "COMP 402D1",
+        "course_title": "Honours Project in Computer Science and Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-402d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 402D2",
+        "course_title": "Honours Project in Computer Science and Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-402d2",
+        "prerequisites": [
+            "COMP 402D1"
+        ]
+    },
+    {
+        "course_number": "COMP 417",
+        "course_title": "Introduction Robotics and Intelligent Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-417",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 223",
+            "ECSE 321",
+            "COMP 206"
+        ]
+    },
+    {
+        "course_number": "COMP 409",
+        "course_title": "Concurrent Programming (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-409",
+        "prerequisites": [
+            "COMP 251",
+            "COMP 302",
+            "COMP 310",
+            "ECSE 427"
+        ]
+    },
+    {
+        "course_number": "COMP 401",
+        "course_title": "Project in Biology and Computer Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-401",
+        "prerequisites": [
+            "COMP 251",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "COMP 402",
+        "course_title": "Honours Project in Computer Science and Biology (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-402",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 396",
+        "course_title": "Undergraduate Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-396",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 400",
+        "course_title": "Project in Computer Science (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-400",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 364",
+        "course_title": "Computer Tools for Life Sciences (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-364",
+        "prerequisites": [
+            "BIOL 200"
+        ]
+    },
+    {
+        "course_number": "COMP 361D2",
+        "course_title": "Software Engineering Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-361d2",
+        "prerequisites": [
+            "COMP 361D1"
+        ]
+    },
+    {
+        "course_number": "COMP 370",
+        "course_title": "Introduction to Data Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-370",
+        "prerequisites": [
+            "COMP 206",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 362",
+        "course_title": "Honours Algorithm Design (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-362",
+        "prerequisites": [
+            "COMP 252"
+        ]
+    },
+    {
+        "course_number": "COMP 361D1",
+        "course_title": "Software Engineering Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-361d1",
+        "prerequisites": [
+            "COMP 206",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 360",
+        "course_title": "Algorithm Design (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+        "prerequisites": [
+            "COMP 251",
+            "COMP 252",
+            "MATH 240",
+            "MATH 235",
+            "MATH 363"
+        ]
+    },
+    {
+        "course_number": "COMP 350",
+        "course_title": "Numerical Computing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223",
+            "COMP 202",
+            "COMP 208",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 345",
+        "course_title": "From Natural Language to Data Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-345",
+        "prerequisites": [
+            "COMP 250",
+            "MATH 240"
+        ]
+    },
+    {
+        "course_number": "COMP 330",
+        "course_title": "Theory of Computation (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+        "prerequisites": [
+            "COMP 251"
+        ]
+    },
+    {
+        "course_number": "COMP 102",
+        "course_title": "Computers and Computing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-102",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 546",
+        "course_title": "Computational Perception (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-546",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 545",
+        "course_title": "Natural Language Understanding with Deep Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-545",
+        "prerequisites": [
+            "COMP 345",
+            "LING 345",
+            "COMP 445",
+            "LING 445",
+            "COMP 550",
+            "COMP 551"
+        ]
+    },
+    {
+        "course_number": "COMP 540",
+        "course_title": "Matrix Computations (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-540",
+        "prerequisites": [
+            "MATH 327",
+            "COMP 350"
+        ]
+    },
+    {
+        "course_number": "COMP 531",
+        "course_title": "Advanced Theory of Computation (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-531",
+        "prerequisites": [
+            "COMP 330"
+        ]
+    },
+    {
+        "course_number": "COMP 535",
+        "course_title": "Computer Networks 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-535",
+        "prerequisites": [
+            "COMP 310",
+            "ECSE 427"
+        ]
+    },
+    {
+        "course_number": "COMP 533",
+        "course_title": "Model-Driven Software Development (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-533",
+        "prerequisites": [
+            "ECSE 321",
+            "COMP 303",
+            "COMP 361"
+        ]
+    },
+    {
+        "course_number": "COMP 532",
+        "course_title": "Propositional Proof Complexity (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-532",
+        "prerequisites": [
+            "MATH 240",
+            "COMP 330",
+            "COMP 360"
+        ]
+    },
+    {
+        "course_number": "COMP 527",
+        "course_title": "Logic and Computation (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-527",
+        "prerequisites": [
+            "COMP 302"
+        ]
+    },
+    {
+        "course_number": "COMP 529",
+        "course_title": "Software Architecture (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-529",
+        "prerequisites": [
+            "COMP 303"
+        ]
+    },
+    {
+        "course_number": "COMP 523",
+        "course_title": "Language-based Security (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-523",
+        "prerequisites": [
+            "COMP 302",
+            "COMP 330"
+        ]
+    },
+    {
+        "course_number": "COMP 525",
+        "course_title": "Formal Verification (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-525",
+        "prerequisites": [
+            "COMP 251",
+            "COMP 330"
+        ]
+    },
+    {
+        "course_number": "COMP 513",
+        "course_title": "Advanced Computer Systems (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-513",
+        "prerequisites": [
+            "COMP 310",
+            "ECSE 427"
+        ]
+    },
+    {
+        "course_number": "COMP 521",
+        "course_title": "Modern Computer Games (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-521",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 223",
+            "COMP 303",
+            "COMP 361"
+        ]
+    },
+    {
+        "course_number": "COMP 520",
+        "course_title": "Compiler Design (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-520",
+        "prerequisites": [
+            "COMP 273",
+            "COMP 302"
+        ]
+    },
+    {
+        "course_number": "COMP 514",
+        "course_title": "Applied Robotics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-514",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 323",
+            "COMP 206",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 511",
+        "course_title": "Network Science (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-511",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "COMP 512",
+        "course_title": "Distributed Systems (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-512",
+        "prerequisites": [
+            "COMP 310",
+            "COMP 251"
+        ]
+    },
+    {
+        "course_number": "COMP 462",
+        "course_title": "Computational Biology Methods (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-462",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 323",
+            "MATH 203",
+            "BIOL 309"
+        ]
+    },
+    {
+        "course_number": "COMP 480",
+        "course_title": "Independent Studies in Computer Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-480",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 451",
+        "course_title": "Fundamentals of Machine Learning (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-451",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 222",
+            "MATH 223",
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "COMP 588",
+        "course_title": "Probabilistic Graphical Models (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-588",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 323",
+            "MATH 324"
+        ]
+    },
+    {
+        "course_number": "COMP 585",
+        "course_title": "Intelligent Software Systems (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-585",
+        "prerequisites": [
+            "COMP 303",
+            "COMP 424",
+            "COMP 551"
+        ]
+    },
+    {
+        "course_number": "COMP 579",
+        "course_title": "Reinforcement Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-579",
+        "prerequisites": [
+            "COMP 451",
+            "COMP 551",
+            "MATH 222",
+            "MATH 223",
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "COMP 565",
+        "course_title": "Machine Learning in Genomics and Healthcare (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-565",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "MATH 324",
+            "COMP 451",
+            "COMP 551"
+        ]
+    },
+    {
+        "course_number": "COMP 564",
+        "course_title": "Advanced Computational Biology Methods and Research (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-564",
+        "prerequisites": [
+            "COMP 462"
+        ]
+    },
+    {
+        "course_number": "COMP 561",
+        "course_title": "Computational Biology Methods and Research (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-561",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 323",
+            "MATH 203",
+            "BIOL 309"
+        ]
+    },
+    {
+        "course_number": "COMP 562",
+        "course_title": "Theory of Machine Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-562",
+        "prerequisites": [
+            "MATH 462",
+            "COMP 451",
+            "COMP 551",
+            "MATH 222",
+            "MATH 223",
+            "MATH 324",
+            "ECSE 551"
+        ]
+    },
+    {
+        "course_number": "COMP 566",
+        "course_title": "Discrete Optimization 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-566",
+        "prerequisites": [
+            "COMP 360",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "COMP 567",
+        "course_title": "Discrete Optimization 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-567",
+        "prerequisites": [
+            "COMP 566",
+            "MATH 417"
+        ]
+    },
+    {
+        "course_number": "COMP 558",
+        "course_title": "Fundamentals of Computer Vision (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-558",
+        "prerequisites": [
+            "COMP 251",
+            "MATH 222",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "COMP 555",
+        "course_title": "Information Privacy (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-555",
+        "prerequisites": [
+            "COMP 303"
+        ]
+    },
+    {
+        "course_number": "COMP 557",
+        "course_title": "Fundamentals of Computer Graphics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-557",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223",
+            "COMP 250",
+            "COMP 206"
+        ]
+    },
+    {
+        "course_number": "COMP 554",
+        "course_title": "Approximation Algorithms (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-554",
+        "prerequisites": [
+            "COMP 362",
+            "MATH 350"
+        ]
+    },
+    {
+        "course_number": "COMP 559",
+        "course_title": "Fundamentals of Computer Animation (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-559",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223",
+            "COMP 206",
+            "COMP 250"
+        ]
+    },
+    {
+        "course_number": "COMP 553",
+        "course_title": "Algorithmic Game Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-553",
+        "prerequisites": [
+            "COMP 362",
+            "MATH 350",
+            "MATH 454",
+            "MATH 487"
+        ]
+    },
+    {
+        "course_number": "COMP 551",
+        "course_title": "Applied Machine Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-551",
+        "prerequisites": [
+            "MATH 323",
+            "ECSE 205",
+            "COMP 202",
+            "MATH 133",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "COMP 552",
+        "course_title": "Combinatorial Optimization (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-552",
+        "prerequisites": [
+            "COMP 362"
+        ]
+    },
+    {
+        "course_number": "COMP 549",
+        "course_title": "Brain-Inspired Artificial Intelligence (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-549",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223",
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "COMP 547",
+        "course_title": "Cryptography and Data Security (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-547",
+        "prerequisites": [
+            "COMP 360",
+            "COMP 362",
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "COMP 550",
+        "course_title": "Natural Language Processing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-550",
+        "prerequisites": [
+            "MATH 323",
+            "ECSE 305",
+            "COMP 251",
+            "COMP 252"
+        ]
+    },
+    {
+        "course_number": "COMP 610",
+        "course_title": "Information Structures 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-610",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 616D2",
+        "course_title": "Bioinformatics Seminar (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-616d2",
+        "prerequisites": [
+            "COMP 616D1"
+        ]
+    },
+    {
+        "course_number": "COMP 616D1",
+        "course_title": "Bioinformatics Seminar (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-616d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 616N1",
+        "course_title": "Bioinformatics Seminar (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-616n1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 611",
+        "course_title": "Mathematical Tools for Computer Science (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-611",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 603",
+        "course_title": "Computer Science Seminar 2 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-603",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 614",
+        "course_title": "Distributed Data Management (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-614",
+        "prerequisites": [
+            "COMP 421",
+            "COMP 435",
+            "COMP 535",
+            "COMP 512"
+        ]
+    },
+    {
+        "course_number": "COMP 604",
+        "course_title": "Graduate School Fundamentals (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-604",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 601D1",
+        "course_title": "Thesis Literature Review (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-601d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 601N1",
+        "course_title": "Thesis Literature Review (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-601n1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 601D2",
+        "course_title": "Thesis Literature Review (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-601d2",
+        "prerequisites": [
+            "COMP 601D1"
+        ]
+    },
+    {
+        "course_number": "COMP 601N2",
+        "course_title": "Thesis Literature Review (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-601n2",
+        "prerequisites": [
+            "COMP 601N1"
+        ]
+    },
+    {
+        "course_number": "COMP 602",
+        "course_title": "Computer Science Seminar 1 (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-602",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 601",
+        "course_title": "Thesis Literature Review (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-601",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 598",
+        "course_title": "Topics in CS: Applications 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-598",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 599",
+        "course_title": "Topics in CS: Applications 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-599",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 597",
+        "course_title": "Topics in CS: Systems and Programming 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-597",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 596",
+        "course_title": "Topics in CS: Systems and Programming 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-596",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 595",
+        "course_title": "Topics in CS: Theory 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-595",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 594",
+        "course_title": "Topics in CS: Theory 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-594",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 697",
+        "course_title": "Thesis Research 3 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-697",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 694",
+        "course_title": "Research Project 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-694",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 690",
+        "course_title": "Probabilistic Analysis of Algorithms (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-690",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 693",
+        "course_title": "Research Project 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-693",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 691",
+        "course_title": "Thesis Research 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-691",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 696",
+        "course_title": "Thesis Research 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-696",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 695",
+        "course_title": "Research Project 3 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-695",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 685",
+        "course_title": "Machine Learning Applied to Climate Change (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-685",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 649",
+        "course_title": "Quantum Cryptography (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-649",
+        "prerequisites": [
+            "COMP 547"
+        ]
+    },
+    {
+        "course_number": "COMP 680",
+        "course_title": "Mining Biological Sequences (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-680",
+        "prerequisites": [
+            "COMP 462"
+        ]
+    },
+    {
+        "course_number": "COMP 667",
+        "course_title": "Software Fault Tolerance (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-667",
+        "prerequisites": [
+            "COMP 409"
+        ]
+    },
+    {
+        "course_number": "COMP 655",
+        "course_title": "Distributed Simulation (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-655",
+        "prerequisites": [
+            "COMP 310"
+        ]
+    },
+    {
+        "course_number": "COMP 689",
+        "course_title": "Internship in Computer Science (15 credits)",
+        "credits": 15,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-689",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 654",
+        "course_title": "Graph Representation Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-654",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223",
+            "COMP 360",
+            "COMP 451",
+            "COMP 551"
+        ]
+    },
+    {
+        "course_number": "COMP 652",
+        "course_title": "Machine Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-652",
+        "prerequisites": [
+            "COMP 424",
+            "COMP 526",
+            "ECSE 526",
+            "COMP 360",
+            "MATH 323",
+            "ECSE 305"
+        ]
+    },
+    {
+        "course_number": "COMP 642",
+        "course_title": "Numerical Estimation Methods (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-642",
+        "prerequisites": [
+            "MATH 323",
+            "MATH 324",
+            "COMP 350"
+        ]
+    },
+    {
+        "course_number": "COMP 647",
+        "course_title": "Advanced Cryptography (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-647",
+        "prerequisites": [
+            "COMP 547"
+        ]
+    },
+    {
+        "course_number": "COMP 616N2",
+        "course_title": "Bioinformatics Seminar (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-616n2",
+        "prerequisites": [
+            "COMP 616N1"
+        ]
+    },
+    {
+        "course_number": "COMP 621",
+        "course_title": "Program Analysis and Transformations (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-621",
+        "prerequisites": [
+            "COMP 251",
+            "COMP 302",
+            "COMP 520"
+        ]
+    },
+    {
+        "course_number": "COMP 618",
+        "course_title": "Bioinformatics: Functional Genomics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-618",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 767",
+        "course_title": "Advanced Topics: Applications 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-767",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 766",
+        "course_title": "Advanced Topics Applications 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-766",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 765",
+        "course_title": "Advanced Topics Systems 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-765",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 764",
+        "course_title": "Advanced Topics Systems 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-764",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 763",
+        "course_title": "Advanced Topics Programming 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-763",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 762",
+        "course_title": "Advanced Topics Programming 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-762",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 760",
+        "course_title": "Advanced Topics Theory 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-760",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 761",
+        "course_title": "Advanced Topics Theory 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-761",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 700D2",
+        "course_title": "Ph.D. Comprehensive Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-700d2",
+        "prerequisites": [
+            "COMP 700D1"
+        ]
+    },
+    {
+        "course_number": "COMP 700D1",
+        "course_title": "Ph.D. Comprehensive Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-700d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 701",
+        "course_title": "Thesis Proposal and Area Examination (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-701",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 700",
+        "course_title": "Ph.D. Comprehensive Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-700",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 698",
+        "course_title": "Thesis Research 4 (10 credits)",
+        "credits": 10,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-698",
+        "prerequisites": []
+    },
+    {
+        "course_number": "COMP 699",
+        "course_title": "Thesis Research 5 (12 credits)",
+        "credits": 12,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-699",
+        "prerequisites": []
+    }
+]

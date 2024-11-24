@@ -1,0 +1,1790 @@
+[
+    {
+        "course_number": "MATH 235",
+        "course_title": "Algebra 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-235",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 317",
+        "course_title": "Numerical Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-317",
+        "prerequisites": [
+            "MATH 315",
+            "MATH 325",
+            "MATH 263",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "MATH 316",
+        "course_title": "Complex Variables (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-316",
+        "prerequisites": [
+            "MATH 314",
+            "MATH 243"
+        ]
+    },
+    {
+        "course_number": "MATH 315",
+        "course_title": "Ordinary Differential Equations (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-315",
+        "prerequisites": [
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "MATH 314",
+        "course_title": "Advanced Calculus (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-314",
+        "prerequisites": [
+            "MATH 133",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "MATH 264",
+        "course_title": "Advanced Calculus for Engineers (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-264",
+        "prerequisites": [
+            "MATH 262",
+            "MATH 151",
+            "MATH 152"
+        ]
+    },
+    {
+        "course_number": "MATH 308",
+        "course_title": "Fundamentals of Statistical Learning (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-308",
+        "prerequisites": [
+            "MATH 208",
+            "MATH 223",
+            "MATH 236",
+            "MATH 247",
+            "MATH 251",
+            "MATH 323",
+            "MATH 356"
+        ]
+    },
+    {
+        "course_number": "MATH 271",
+        "course_title": "Linear Algebra and Partial Differential Equations (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-271",
+        "prerequisites": [
+            "MATH 263",
+            "MATH 264"
+        ]
+    },
+    {
+        "course_number": "MATH 365",
+        "course_title": "Honours Groups, Tilings and Algorithms (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-365",
+        "prerequisites": [
+            "MATH 235"
+        ]
+    },
+    {
+        "course_number": "MATH 376",
+        "course_title": "Honours Nonlinear Dynamics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-376",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "MATH 358",
+        "course_title": "Honours Advanced Calculus (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-358",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 247",
+            "MATH 251",
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 357",
+        "course_title": "Honours Statistics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-357",
+        "prerequisites": [
+            "MATH 356"
+        ]
+    },
+    {
+        "course_number": "MATH 356",
+        "course_title": "Honours Probability (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-356",
+        "prerequisites": [
+            "MATH 243",
+            "MATH 255",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "MATH 352",
+        "course_title": "Problem Seminar (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-352",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 350",
+        "course_title": "Honours Discrete Mathematics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-350",
+        "prerequisites": [
+            "MATH 235",
+            "MATH 240",
+            "MATH 251",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "MATH 340",
+        "course_title": "Discrete Mathematics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+        "prerequisites": [
+            "MATH 235",
+            "MATH 240",
+            "MATH 242"
+        ]
+    },
+    {
+        "course_number": "MATH 346",
+        "course_title": "Number Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-346",
+        "prerequisites": [
+            "MATH 235"
+        ]
+    },
+    {
+        "course_number": "MATH 348",
+        "course_title": "Euclidean Geometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-348",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 457",
+        "course_title": "Honours Algebra 4 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-457",
+        "prerequisites": [
+            "MATH 456"
+        ]
+    },
+    {
+        "course_number": "MATH 458",
+        "course_title": "Honours Differential Geometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-458",
+        "prerequisites": [
+            "MATH 251",
+            "MATH 247",
+            "MATH 248",
+            "MATH 314",
+            "MATH 358"
+        ]
+    },
+    {
+        "course_number": "MATH 455",
+        "course_title": "Honours Analysis 4 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-455",
+        "prerequisites": [
+            "MATH 454"
+        ]
+    },
+    {
+        "course_number": "MATH 456",
+        "course_title": "Honours Algebra 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-456",
+        "prerequisites": [
+            "MATH 235",
+            "MATH 247",
+            "MATH 251"
+        ]
+    },
+    {
+        "course_number": "MATH 451",
+        "course_title": "Introduction to General Topology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-451",
+        "prerequisites": [
+            "MATH 242",
+            "MATH 254"
+        ]
+    },
+    {
+        "course_number": "MATH 454",
+        "course_title": "Honours Analysis 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-454",
+        "prerequisites": [
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 447",
+        "course_title": "Introduction to Stochastic Processes (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-447",
+        "prerequisites": [
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "MATH 437",
+        "course_title": "Mathematical Methods in Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-437",
+        "prerequisites": [
+            "MATH 315",
+            "MATH 325",
+            "MATH 326",
+            "MATH 376",
+            "COMP 202",
+            "COMP 204",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "MATH 427",
+        "course_title": "Statistical Quality Control (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-427",
+        "prerequisites": [
+            "MATH 203",
+            "MATH 204",
+            "MATH 324"
+        ]
+    },
+    {
+        "course_number": "MATH 430",
+        "course_title": "Mathematical Finance (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-430",
+        "prerequisites": [
+            "MATH 243",
+            "MATH 255",
+            "MATH 323",
+            "MATH 356",
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 420",
+        "course_title": "Independent Study (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-420",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 398",
+        "course_title": "Honours Euclidean Geometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-398",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 423",
+        "course_title": "Applied Regression (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-423",
+        "prerequisites": [
+            "MATH 324",
+            "MATH 223",
+            "MATH 236"
+        ]
+    },
+    {
+        "course_number": "MATH 410",
+        "course_title": "Majors Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-410",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 417",
+        "course_title": "Linear Optimization (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-417",
+        "prerequisites": [
+            "COMP 202",
+            "MATH 223",
+            "MATH 236",
+            "MATH 314"
+        ]
+    },
+    {
+        "course_number": "MATH 533",
+        "course_title": "Regression and Analysis of Variance (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-533",
+        "prerequisites": [
+            "MATH 357",
+            "MATH 247",
+            "MATH 251"
+        ]
+    },
+    {
+        "course_number": "MATH 518",
+        "course_title": "Introduction to Algebraic Geometry (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-518",
+        "prerequisites": [
+            "MATH 456"
+        ]
+    },
+    {
+        "course_number": "MATH 527D2",
+        "course_title": "Statistical Data Science Practicum (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-527d2",
+        "prerequisites": [
+            "MATH 324",
+            "MATH 223",
+            "MATH 208"
+        ]
+    },
+    {
+        "course_number": "MATH 527D1",
+        "course_title": "Statistical Data Science Practicum (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-527d1",
+        "prerequisites": [
+            "MATH 324",
+            "MATH 223",
+            "MATH 208"
+        ]
+    },
+    {
+        "course_number": "MATH 525",
+        "course_title": "Sampling Theory and Applications (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-525",
+        "prerequisites": [
+            "MATH 324"
+        ]
+    },
+    {
+        "course_number": "MATH 524",
+        "course_title": "Nonparametric Statistics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-524",
+        "prerequisites": [
+            "MATH 324"
+        ]
+    },
+    {
+        "course_number": "MATH 517",
+        "course_title": "Honours Linear Optimization (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-517",
+        "prerequisites": [
+            "COMP 202",
+            "MATH 223",
+            "MATH 236",
+            "MATH 314"
+        ]
+    },
+    {
+        "course_number": "MATH 523",
+        "course_title": "Generalized Linear Models (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-523",
+        "prerequisites": [
+            "MATH 423",
+            "MATH 533",
+            "EPIB 697"
+        ]
+    },
+    {
+        "course_number": "MATH 511",
+        "course_title": "Analysis of Categorical Data (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-511",
+        "prerequisites": [
+            "MATH 208",
+            "MATH 324",
+            "MATH 357",
+            "MATH 423",
+            "MATH 533"
+        ]
+    },
+    {
+        "course_number": "MATH 470",
+        "course_title": "Honours Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-470",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 470D2",
+        "course_title": "Honours Research Project (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-470d2",
+        "prerequisites": [
+            "MATH 470D1"
+        ]
+    },
+    {
+        "course_number": "MATH 470D1",
+        "course_title": "Honours Research Project (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-470d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 475",
+        "course_title": "Honours Partial Differential Equations (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-475",
+        "prerequisites": [
+            "MATH 247",
+            "MATH 251",
+            "MATH 248",
+            "MATH 358",
+            "MATH 325"
+        ]
+    },
+    {
+        "course_number": "MATH 480",
+        "course_title": "Honours Independent Study (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-480",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 478",
+        "course_title": "Computational Methods in Applied Mathematics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-478",
+        "prerequisites": [
+            "MATH 315",
+            "MATH 325",
+            "MATH 263",
+            "MATH 317",
+            "MATH 387",
+            "COMP 350",
+            "MECH 309"
+        ]
+    },
+    {
+        "course_number": "MATH 510",
+        "course_title": "Quantitative Risk Management (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-510",
+        "prerequisites": [
+            "MATH 323",
+            "MATH 356",
+            "MATH 324",
+            "MATH 357"
+        ]
+    },
+    {
+        "course_number": "MATH 488",
+        "course_title": "Honours Set Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-488",
+        "prerequisites": [
+            "MATH 251",
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 466",
+        "course_title": "Honours Complex Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-466",
+        "prerequisites": [
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 463",
+        "course_title": "Convex Optimization (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-463",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 247",
+            "MATH 236",
+            "MATH 251",
+            "MATH 248",
+            "MATH 314",
+            "MATH 358",
+            "MATH 243",
+            "MATH 255",
+            "COMP 202",
+            "COMP 204",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "MATH 462",
+        "course_title": "Machine Learning (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-462",
+        "prerequisites": [
+            "MATH 236",
+            "MATH 247",
+            "MATH 251",
+            "MATH 248",
+            "MATH 314",
+            "MATH 358",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "MATH 397",
+        "course_title": "Honours Matrix Numerical Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-397",
+        "prerequisites": [
+            "MATH 251",
+            "MATH 247",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "MATH 571",
+        "course_title": "Higher Algebra 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-571",
+        "prerequisites": [
+            "MATH 570"
+        ]
+    },
+    {
+        "course_number": "MATH 567",
+        "course_title": "Introduction to Functional Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-567",
+        "prerequisites": [
+            "MATH 455"
+        ]
+    },
+    {
+        "course_number": "MATH 574",
+        "course_title": "Dynamical Systems (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-574",
+        "prerequisites": [
+            "MATH 325",
+            "MATH 454"
+        ]
+    },
+    {
+        "course_number": "MATH 564",
+        "course_title": "Real Analysis and Measure Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-564",
+        "prerequisites": [
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 565",
+        "course_title": "Functional Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-565",
+        "prerequisites": [
+            "MATH 454",
+            "MATH 564"
+        ]
+    },
+    {
+        "course_number": "MATH 570",
+        "course_title": "Higher Algebra 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-570",
+        "prerequisites": [
+            "MATH 457"
+        ]
+    },
+    {
+        "course_number": "MATH 566",
+        "course_title": "Advanced Complex Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-566",
+        "prerequisites": [
+            "MATH 366",
+            "MATH 466",
+            "MATH 564"
+        ]
+    },
+    {
+        "course_number": "MATH 562",
+        "course_title": "Theory of Machine Learning (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-562",
+        "prerequisites": [
+            "MATH 462",
+            "COMP 451",
+            "COMP 551",
+            "MATH 222",
+            "MATH 223",
+            "MATH 324",
+            "ECSE 551"
+        ]
+    },
+    {
+        "course_number": "MATH 563",
+        "course_title": "Honours Convex Optimization (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-563",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 247",
+            "MATH 236",
+            "MATH 251",
+            "MATH 248",
+            "MATH 314",
+            "MATH 358",
+            "MATH 243",
+            "MATH 255",
+            "COMP 202",
+            "COMP 204",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "MATH 559",
+        "course_title": "Bayesian Theory and Methods (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-559",
+        "prerequisites": [
+            "MATH 324",
+            "MATH 357",
+            "MATH 557",
+            "MATH 208"
+        ]
+    },
+    {
+        "course_number": "MATH 556",
+        "course_title": "Mathematical Statistics 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-556",
+        "prerequisites": [
+            "MATH 323",
+            "MATH 356"
+        ]
+    },
+    {
+        "course_number": "MATH 555",
+        "course_title": "Fluid Dynamics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-555",
+        "prerequisites": [
+            "MATH 315",
+            "MATH 319"
+        ]
+    },
+    {
+        "course_number": "MATH 553",
+        "course_title": "Algorithmic Game Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-553",
+        "prerequisites": [
+            "COMP 362",
+            "MATH 350",
+            "MATH 454",
+            "MATH 487"
+        ]
+    },
+    {
+        "course_number": "MATH 557",
+        "course_title": "Mathematical Statistics 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-557",
+        "prerequisites": [
+            "MATH 556",
+            "MATH 324",
+            "MATH 357"
+        ]
+    },
+    {
+        "course_number": "MATH 558",
+        "course_title": "Design of Experiments (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-558",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 236",
+            "MATH 247",
+            "MATH 251",
+            "MATH 208",
+            "MATH 324",
+            "MATH 357"
+        ]
+    },
+    {
+        "course_number": "MATH 552",
+        "course_title": "Combinatorial Optimization (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-552",
+        "prerequisites": [
+            "MATH 350",
+            "COMP 362"
+        ]
+    },
+    {
+        "course_number": "MATH 550",
+        "course_title": "Combinatorics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-550",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 547",
+        "course_title": "Stochastic Processes (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-547",
+        "prerequisites": [
+            "MATH 356",
+            "MATH 247",
+            "MATH 251"
+        ]
+    },
+    {
+        "course_number": "MATH 545",
+        "course_title": "Introduction to Time Series Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-545",
+        "prerequisites": [
+            "MATH 324",
+            "MATH 357"
+        ]
+    },
+    {
+        "course_number": "MATH 537",
+        "course_title": "Honours Mathematical Models in Biology (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-537",
+        "prerequisites": [
+            "MATH 325",
+            "MATH 376",
+            "COMP 202",
+            "COMP 204",
+            "COMP 208"
+        ]
+    },
+    {
+        "course_number": "MATH 396",
+        "course_title": "Undergraduate Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-396",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 387",
+        "course_title": "Honours Numerical Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-387",
+        "prerequisites": [
+            "MATH 325",
+            "MATH 315",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "MATH 378",
+        "course_title": "Nonlinear Optimization (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-378",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 247",
+            "MATH 236",
+            "MATH 251",
+            "MATH 248",
+            "MATH 314",
+            "MATH 358",
+            "MATH 243",
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 377",
+        "course_title": "Honours Number Theory (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-377",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 598",
+        "course_title": "Topics in Probability and Statistics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-598",
+        "prerequisites": [
+            "MATH 356"
+        ]
+    },
+    {
+        "course_number": "MATH 597",
+        "course_title": "Topics in Applied Mathematics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-597",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 600",
+        "course_title": "Master's Thesis Research 1 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-600",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 599",
+        "course_title": "Topics in Geometry and Topology (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-599",
+        "prerequisites": [
+            "MATH 454",
+            "MATH 458"
+        ]
+    },
+    {
+        "course_number": "MATH 596",
+        "course_title": "Topics in Algebra and Number Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-596",
+        "prerequisites": [
+            "MATH 456",
+            "MATH 377"
+        ]
+    },
+    {
+        "course_number": "MATH 595",
+        "course_title": "Topics in Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-595",
+        "prerequisites": [
+            "MATH 454",
+            "MATH 366",
+            "MATH 466"
+        ]
+    },
+    {
+        "course_number": "MATH 594",
+        "course_title": "Topics in Mathematics and Statistics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-594",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 591",
+        "course_title": "Model Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-591",
+        "prerequisites": [
+            "MATH 318",
+            "MATH 488",
+            "MATH 456"
+        ]
+    },
+    {
+        "course_number": "MATH 592",
+        "course_title": "Descriptive Set Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-592",
+        "prerequisites": [
+            "MATH 454",
+            "MATH 451"
+        ]
+    },
+    {
+        "course_number": "MATH 590",
+        "course_title": "Advanced Set Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-590",
+        "prerequisites": [
+            "MATH 251",
+            "MATH 255"
+        ]
+    },
+    {
+        "course_number": "MATH 579",
+        "course_title": "Numerical Differential Equations (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-579",
+        "prerequisites": [
+            "MATH 475",
+            "MATH 387"
+        ]
+    },
+    {
+        "course_number": "MATH 578",
+        "course_title": "Numerical Analysis 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-578",
+        "prerequisites": [
+            "MATH 247",
+            "MATH 251",
+            "MATH 387"
+        ]
+    },
+    {
+        "course_number": "MATH 580",
+        "course_title": "Advanced Partial Differential Equations 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-580",
+        "prerequisites": [
+            "MATH 475"
+        ]
+    },
+    {
+        "course_number": "MATH 589",
+        "course_title": "Advanced Probability Theory 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-589",
+        "prerequisites": [
+            "MATH 587"
+        ]
+    },
+    {
+        "course_number": "MATH 583",
+        "course_title": "Geometric Group Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-583",
+        "prerequisites": [
+            "MATH 456",
+            "MATH 576"
+        ]
+    },
+    {
+        "course_number": "MATH 581",
+        "course_title": "Advanced Partial Differential Equations 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-581",
+        "prerequisites": [
+            "MATH 455",
+            "MATH 580"
+        ]
+    },
+    {
+        "course_number": "MATH 582",
+        "course_title": "Algebraic Topology (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-582",
+        "prerequisites": [
+            "MATH 576"
+        ]
+    },
+    {
+        "course_number": "MATH 587",
+        "course_title": "Advanced Probability Theory 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-587",
+        "prerequisites": [
+            "MATH 356",
+            "MATH 255",
+            "MATH 243"
+        ]
+    },
+    {
+        "course_number": "MATH 686",
+        "course_title": "Survival Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-686",
+        "prerequisites": [
+            "MATH 556",
+            "MATH 557"
+        ]
+    },
+    {
+        "course_number": "MATH 689",
+        "course_title": "Reading Course in Algebra (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-689",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 687",
+        "course_title": "Reading Course in Mathematical Logic (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-687",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 685D1",
+        "course_title": "Statistical Consulting (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-685d1",
+        "prerequisites": [
+            "MATH 423",
+            "MATH 523",
+            "MATH 556",
+            "MATH 557"
+        ]
+    },
+    {
+        "course_number": "MATH 682",
+        "course_title": "Statistical Inference (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-682",
+        "prerequisites": [
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 685D2",
+        "course_title": "Statistical Consulting (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-685d2",
+        "prerequisites": [
+            "MATH 685D1"
+        ]
+    },
+    {
+        "course_number": "MATH 681",
+        "course_title": "Time Series Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-681",
+        "prerequisites": [
+            "MATH 545"
+        ]
+    },
+    {
+        "course_number": "MATH 669D1",
+        "course_title": "CSE Seminar (0.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-669d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 641",
+        "course_title": "Project 2 (8 credits)",
+        "credits": 8,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-641",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 667",
+        "course_title": "Seminar Mathematics and Statistics 2 (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-667",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 680",
+        "course_title": "Computation Intensive Statistics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-680",
+        "prerequisites": [
+            "MATH 556",
+            "MATH 557"
+        ]
+    },
+    {
+        "course_number": "MATH 671",
+        "course_title": "Applied Stochastic Processes (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-671",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 669D2",
+        "course_title": "CSE Seminar (0.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-669d2",
+        "prerequisites": [
+            "MATH 669D1"
+        ]
+    },
+    {
+        "course_number": "MATH 666",
+        "course_title": "Seminar Mathematics and Statistics 1 (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-666",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 640",
+        "course_title": "Project 1 (8 credits)",
+        "credits": 8,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-640",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 602",
+        "course_title": "Master's Research Preparation (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-602",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 601",
+        "course_title": "Master's Thesis Research 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-601",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 635",
+        "course_title": "Functional Analysis 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-635",
+        "prerequisites": [
+            "MATH 564",
+            "MATH 565",
+            "MATH 566"
+        ]
+    },
+    {
+        "course_number": "MATH 605",
+        "course_title": "Master's Thesis Research 4 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-605",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 604",
+        "course_title": "Master's Thesis Research 3 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-604",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 742",
+        "course_title": "Advanced Topics in Mathematical Physics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-742",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 723",
+        "course_title": "Advanced Topics in Group Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-723",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 726",
+        "course_title": "Advanced Topics in Number Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-726",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 741",
+        "course_title": "Advanced Topics in Analysis 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-741",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 740",
+        "course_title": "Advanced Topics in Analysis 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-740",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 727",
+        "course_title": "Advanced Topics in Arithmetic Geometry (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-727",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 722",
+        "course_title": "Advanced Topics in Algebraic Geometry (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-722",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 707",
+        "course_title": "Advanced Topics in Geometry and Topology 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-707",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 720",
+        "course_title": "Advanced Topics in Algebra 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-720",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 698",
+        "course_title": "Reading Course in Probability (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-698",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 699",
+        "course_title": "Reading Course in Discrete Mathematics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-699",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 721",
+        "course_title": "Advanced Topics in Algebra 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-721",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 706",
+        "course_title": "Advanced Topics in Geometry and Topology 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-706",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 704",
+        "course_title": "Advanced Topics in Mathematical Logic (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-704",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 701",
+        "course_title": "Ph.D. Qualifying Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-701",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 697",
+        "course_title": "Reading Course in Statistics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-697",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 695",
+        "course_title": "Reading Course in Applied Mathematics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-695",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 693",
+        "course_title": "Reading Course in Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-693",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 691",
+        "course_title": "Reading Course in Geometry/Topology (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-691",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 690",
+        "course_title": "Reading Course in Number Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-690",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 577",
+        "course_title": "Geometry and Topology 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-577",
+        "prerequisites": [
+            "MATH 576"
+        ]
+    },
+    {
+        "course_number": "MATH 784",
+        "course_title": "Advanced Topics in Probability (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-784",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 576",
+        "course_title": "Geometry and Topology 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-576",
+        "prerequisites": [
+            "MATH 454"
+        ]
+    },
+    {
+        "course_number": "MATH 765",
+        "course_title": "Advanced Topics in Numerical Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-765",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 763",
+        "course_title": "Advanced Topics in Differential Equations (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-763",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 783",
+        "course_title": "Advanced Topics in Statistics 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-783",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 782",
+        "course_title": "Advanced Topics in Statistics 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-782",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 761",
+        "course_title": "Advanced Topics in Applied Mathematics 1 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-761",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 762",
+        "course_title": "Advanced Topics in Applied Mathematics 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-762",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 758",
+        "course_title": "Advanced Topics in Discrete Mathematics (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-758",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 764",
+        "course_title": "Advanced Topics in Partial Differential Equations (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-764",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 756",
+        "course_title": "Advanced Topics in Optimization (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-756",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 744",
+        "course_title": "Advanced Topics in Spectral Theory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-744",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 743",
+        "course_title": "Advanced Topics in Microlocal Analysis (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-743",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 338",
+        "course_title": "History and Philosophy of Mathematics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-338",
+        "prerequisites": [
+            "MATH 133",
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 335",
+        "course_title": "Groups, Tilings and Algorithms (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-335",
+        "prerequisites": [
+            "MATH 235"
+        ]
+    },
+    {
+        "course_number": "MATH 329",
+        "course_title": "Theory of Interest (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-329",
+        "prerequisites": [
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 327",
+        "course_title": "Matrix Numerical Analysis (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-327",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 236",
+            "MATH 247",
+            "MATH 251",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "MATH 323",
+        "course_title": "Probability (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+        "prerequisites": [
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 326",
+        "course_title": "Nonlinear Dynamics and Chaos (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-326",
+        "prerequisites": [
+            "MATH 222",
+            "MATH 223"
+        ]
+    },
+    {
+        "course_number": "MATH 325",
+        "course_title": "Honours Ordinary Differential Equations (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-325",
+        "prerequisites": [
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "MATH 319",
+        "course_title": "Partial Differential Equations (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-319",
+        "prerequisites": [
+            "MATH 223",
+            "MATH 236",
+            "MATH 314",
+            "MATH 315"
+        ]
+    },
+    {
+        "course_number": "MATH 324",
+        "course_title": "Statistics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+        "prerequisites": [
+            "MATH 323"
+        ]
+    },
+    {
+        "course_number": "MATH 318",
+        "course_title": "Mathematical Logic (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+        "prerequisites": [
+            "MATH 235",
+            "MATH 240",
+            "MATH 242"
+        ]
+    },
+    {
+        "course_number": "MATH 262",
+        "course_title": "Intermediate Calculus (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-262",
+        "prerequisites": [
+            "MATH 141",
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 263",
+        "course_title": "Ordinary Differential Equations for Engineers (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-263",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 255",
+        "course_title": "Honours Analysis 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-255",
+        "prerequisites": [
+            "MATH 242",
+            "MATH 254"
+        ]
+    },
+    {
+        "course_number": "MATH 251",
+        "course_title": "Honours Algebra 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-251",
+        "prerequisites": [
+            "MATH 235"
+        ]
+    },
+    {
+        "course_number": "MATH 254",
+        "course_title": "Honours Analysis 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-254",
+        "prerequisites": [
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 249",
+        "course_title": "Honours Complex Variables (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-249",
+        "prerequisites": [
+            "MATH 248",
+            "MATH 358"
+        ]
+    },
+    {
+        "course_number": "MATH 248",
+        "course_title": "Honours Vector Calculus (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-248",
+        "prerequisites": [
+            "MATH 133",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "MATH 242",
+        "course_title": "Analysis 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-242",
+        "prerequisites": [
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 243",
+        "course_title": "Analysis 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-243",
+        "prerequisites": [
+            "MATH 242",
+            "MATH 254"
+        ]
+    },
+    {
+        "course_number": "MATH 245",
+        "course_title": "Honours Algebra 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-245",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 236",
+        "course_title": "Algebra 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-236",
+        "prerequisites": [
+            "MATH 235"
+        ]
+    },
+    {
+        "course_number": "MATH 240",
+        "course_title": "Discrete Structures (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 247",
+        "course_title": "Honours Applied Linear Algebra (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-247",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 223",
+        "course_title": "Linear Algebra (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 228",
+        "course_title": "Classical Geometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-228",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 222",
+        "course_title": "Calculus 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+        "prerequisites": [
+            "MATH 141",
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 209",
+        "course_title": "Fundamentals of Statistical Modeling and Inference (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-209",
+        "prerequisites": [
+            "MATH 203",
+            "MATH 206",
+            "MATH 208"
+        ]
+    },
+    {
+        "course_number": "MATH 208",
+        "course_title": "Introduction to Statistical Computing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-208",
+        "prerequisites": [
+            "MATH 133"
+        ]
+    },
+    {
+        "course_number": "MATH 206",
+        "course_title": "Applied Calculus and Linear Algebra (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-206",
+        "prerequisites": [
+            "MATH 133",
+            "MATH 140",
+            "MATH 139",
+            "MATH 141"
+        ]
+    },
+    {
+        "course_number": "MATH 203",
+        "course_title": "Principles of Statistics 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-203",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 150",
+        "course_title": "Calculus A (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-150",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 180",
+        "course_title": "The Art of Mathematics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-180",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 151",
+        "course_title": "Calculus B (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-151",
+        "prerequisites": [
+            "MATH 150"
+        ]
+    },
+    {
+        "course_number": "MATH 204",
+        "course_title": "Principles of Statistics 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-204",
+        "prerequisites": [
+            "MATH 203"
+        ]
+    },
+    {
+        "course_number": "MATH 141",
+        "course_title": "Calculus 2 (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-141",
+        "prerequisites": [
+            "MATH 139",
+            "MATH 140",
+            "MATH 150"
+        ]
+    },
+    {
+        "course_number": "MATH 139",
+        "course_title": "Calculus 1 with Precalculus (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-139",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 140",
+        "course_title": "Calculus 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 123",
+        "course_title": "Linear Algebra and Probability (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-123",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 133",
+        "course_title": "Linear Algebra and Geometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 125",
+        "course_title": "Mathematical Techniques for Economics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-125",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 122",
+        "course_title": "Calculus for Management (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-122",
+        "prerequisites": []
+    },
+    {
+        "course_number": "MATH 111",
+        "course_title": "Mathematics for Education Students (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/math-111",
+        "prerequisites": []
+    }
+]

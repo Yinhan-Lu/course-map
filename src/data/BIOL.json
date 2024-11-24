@@ -1,0 +1,1296 @@
+[
+    {
+        "course_number": "BIOL 302",
+        "course_title": "Fundamentals of Genetics and Genomics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-302",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 304",
+        "course_title": "Evolution (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-304",
+        "prerequisites": [
+            "BIOL 205",
+            "BIOL 215",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 303",
+        "course_title": "Developmental Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-303",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 219",
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212"
+        ]
+    },
+    {
+        "course_number": "BIOL 240",
+        "course_title": "Monteregian Flora (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-240",
+        "prerequisites": [
+            "BIOL 111"
+        ]
+    },
+    {
+        "course_number": "BIOL 219",
+        "course_title": "Introduction to Physical Molecular and Cell Biology (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-219",
+        "prerequisites": [
+            "BIOL 112",
+            "CHEM 110",
+            "CHEM 120",
+            "MATH 140",
+            "MATH 141",
+            "MATH 133",
+            "PHYS 131",
+            "PHYS 142"
+        ]
+    },
+    {
+        "course_number": "BIOL 301",
+        "course_title": "Cell and Molecular Laboratory (4 credits)",
+        "credits": 4,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-301",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212",
+            "BIOL 219"
+        ]
+    },
+    {
+        "course_number": "BIOL 300",
+        "course_title": "Molecular Biology of the Gene (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-300",
+        "prerequisites": [
+            "BIOL 219",
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212"
+        ]
+    },
+    {
+        "course_number": "BIOL 216",
+        "course_title": "Biology of Behaviour (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-216",
+        "prerequisites": [
+            "BIOL 111",
+            "BIOL 112"
+        ]
+    },
+    {
+        "course_number": "BIOL 215",
+        "course_title": "Introduction to Ecology and Evolution (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-215",
+        "prerequisites": [
+            "BIOL 111"
+        ]
+    },
+    {
+        "course_number": "BIOL 201",
+        "course_title": "Cell Biology and Metabolism (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-201",
+        "prerequisites": [
+            "BIOL 200"
+        ]
+    },
+    {
+        "course_number": "BIOL 206",
+        "course_title": "Methods in Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-206",
+        "prerequisites": [
+            "BIOL 111"
+        ]
+    },
+    {
+        "course_number": "BIOL 202",
+        "course_title": "Basic Genetics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-202",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219"
+        ]
+    },
+    {
+        "course_number": "BIOL 205",
+        "course_title": "Functional Biology of Plants and Animals (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-205",
+        "prerequisites": [
+            "BIOL 200",
+            "PHYS 101"
+        ]
+    },
+    {
+        "course_number": "BIOL 210",
+        "course_title": "Perspectives of Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-210",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 200",
+        "course_title": "Molecular Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-200",
+        "prerequisites": [
+            "BIOL 112"
+        ]
+    },
+    {
+        "course_number": "BIOL 112",
+        "course_title": "Cell and Molecular Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-112",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 111",
+        "course_title": "Principles: Organismal Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-111",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 101",
+        "course_title": "Organismal Biology Laboratory (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-101",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 115",
+        "course_title": "Essential Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-115",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 102",
+        "course_title": "Cell and Molecular Biology Methods (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-102",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 343",
+        "course_title": "Biodiversity in the Caribean (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-343",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 335",
+        "course_title": "Marine Mammals (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-335",
+        "prerequisites": [
+            "BIOL 205"
+        ]
+    },
+    {
+        "course_number": "BIOL 342",
+        "course_title": "Global Change Biology of Aquatic Ecosystems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-342",
+        "prerequisites": [
+            "BIOL 205",
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 350",
+        "course_title": "Insect Biology and Control (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-350",
+        "prerequisites": [
+            "BIOL 205"
+        ]
+    },
+    {
+        "course_number": "BIOL 320",
+        "course_title": "Evolution of Brain and Behaviour (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-320",
+        "prerequisites": [
+            "NSCI 201",
+            "BIOL 306"
+        ]
+    },
+    {
+        "course_number": "BIOL 334D1",
+        "course_title": "Applied Tropical Ecology (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-334d1",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 331",
+        "course_title": "Ecology/Behaviour Field Course (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-331",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 334D2",
+        "course_title": "Applied Tropical Ecology (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-334d2",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 324",
+        "course_title": "Ecological Genetics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-324",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302"
+        ]
+    },
+    {
+        "course_number": "BIOL 316",
+        "course_title": "Biomembranes and Organelles (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-316",
+        "prerequisites": [
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212"
+        ]
+    },
+    {
+        "course_number": "BIOL 319",
+        "course_title": "Introduction to Biophysics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-319",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219",
+            "MATH 222",
+            "PHYS 230",
+            "PHYS 232",
+            "PHYS 253"
+        ]
+    },
+    {
+        "course_number": "BIOL 313",
+        "course_title": "Eukaryotic Cell Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-313",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 219",
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212"
+        ]
+    },
+    {
+        "course_number": "BIOL 309",
+        "course_title": "Mathematical Models in Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-309",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212",
+            "BIOL 219"
+        ]
+    },
+    {
+        "course_number": "BIOL 308",
+        "course_title": "Ecological Dynamics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-308",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 314",
+        "course_title": "Molecular Biology of Cancer (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-314",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212",
+            "BIOL 219"
+        ]
+    },
+    {
+        "course_number": "BIOL 311",
+        "course_title": "Advanced Methods in Organismal Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-311",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219",
+            "BIOL 206",
+            "COMP 204",
+            "BIOL 202",
+            "BIOL 302"
+        ]
+    },
+    {
+        "course_number": "BIOL 310",
+        "course_title": "Biodiversity and Ecosystems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-310",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202",
+            "MATH 112"
+        ]
+    },
+    {
+        "course_number": "BIOL 307",
+        "course_title": "Behavioural Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-307",
+        "prerequisites": [
+            "BIOL 215",
+            "BIOL 216"
+        ]
+    },
+    {
+        "course_number": "BIOL 306",
+        "course_title": "Neural Basis of Behaviour (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-306",
+        "prerequisites": [
+            "PHYS 102",
+            "PHYS 142",
+            "BIOL 216",
+            "NSCI 200",
+            "PHGY 209"
+        ]
+    },
+    {
+        "course_number": "BIOL 305",
+        "course_title": "Animal Diversity (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-305",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 435",
+        "course_title": "Natural Selection (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-435",
+        "prerequisites": [
+            "BIOL 304"
+        ]
+    },
+    {
+        "course_number": "BIOL 432",
+        "course_title": "Limnology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-432",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 416",
+        "course_title": "Genetics of Mammalian Development (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-416",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 300",
+            "BIOL 303"
+        ]
+    },
+    {
+        "course_number": "BIOL 418",
+        "course_title": "Freshwater Invertebrate Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-418",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202",
+            "BIOL 205"
+        ]
+    },
+    {
+        "course_number": "BIOL 414",
+        "course_title": "Invertebrate Brain Circuits and Behaviours (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-414",
+        "prerequisites": [
+            "BIOL 306",
+            "COMP 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 427",
+        "course_title": "Herpetology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-427",
+        "prerequisites": [
+            "BIOL 205",
+            "BIOL 305"
+        ]
+    },
+    {
+        "course_number": "BIOL 429",
+        "course_title": "East African Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-429",
+        "prerequisites": [
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 428",
+        "course_title": "Biological Diversity in Africa (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-428",
+        "prerequisites": [
+            "BIOL 305"
+        ]
+    },
+    {
+        "course_number": "BIOL 434",
+        "course_title": "Theoretical Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-434",
+        "prerequisites": [
+            "BIOL 308",
+            "BIOL 309"
+        ]
+    },
+    {
+        "course_number": "BIOL 413",
+        "course_title": "Directed Reading (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-413",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 201",
+            "BIOL 202",
+            "BIOL 205",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 389",
+        "course_title": "Laboratory in Neurobiology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-389",
+        "prerequisites": [
+            "BIOL 306",
+            "NSCI 200",
+            "PHGY 311",
+            "NEUR 310"
+        ]
+    },
+    {
+        "course_number": "BIOL 396",
+        "course_title": "Undergraduate Research Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-396",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 385",
+        "course_title": "Plant Growth and Development (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-385",
+        "prerequisites": [
+            "BIOL 205"
+        ]
+    },
+    {
+        "course_number": "BIOL 377",
+        "course_title": "Independent Reading Project (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-377",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 201",
+            "BIOC 212",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 370",
+        "course_title": "Human Genetics Applied (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-370",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 219",
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212"
+        ]
+    },
+    {
+        "course_number": "BIOL 395",
+        "course_title": "Quantitative Biology Seminar (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-395",
+        "prerequisites": [
+            "BIOL 219",
+            "BIOL 200",
+            "BIOL 201",
+            "ANAT 212",
+            "BIOC 212",
+            "CHEM 212",
+            "COMP 202",
+            "COMP 204",
+            "COMP 250",
+            "MATH 222"
+        ]
+    },
+    {
+        "course_number": "BIOL 373",
+        "course_title": "Biometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-373",
+        "prerequisites": [
+            "MATH 112"
+        ]
+    },
+    {
+        "course_number": "BIOL 499D1",
+        "course_title": "Honours Seminar in Biology (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-499d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 479D2",
+        "course_title": "Honours Research Project 1 (4.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-479d2",
+        "prerequisites": [
+            "BIOL 479D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 479D1",
+        "course_title": "Honours Research Project 1 (4.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-479d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 480D2",
+        "course_title": "Honours Research Project 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-480d2",
+        "prerequisites": [
+            "BIOL 480D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 499D2",
+        "course_title": "Honours Seminar in Biology (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-499d2",
+        "prerequisites": [
+            "BIOL 499D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 480D1",
+        "course_title": "Honours Research Project 2 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-480d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 469D1",
+        "course_title": "Independent Research Project 4 (4.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-469d1",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 469D2",
+        "course_title": "Independent Research Project 4 (4.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-469d2",
+        "prerequisites": [
+            "BIOL 469D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 469",
+        "course_title": "Independent Research Project 4 (9 credits)",
+        "credits": 9,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-469",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 468D2",
+        "course_title": "Independent Research Project 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-468d2",
+        "prerequisites": [
+            "BIOL 468D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 468D1",
+        "course_title": "Independent Research Project 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-468d1",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 468N2",
+        "course_title": "Independent Research Project 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-468n2",
+        "prerequisites": [
+            "BIOL 468N1"
+        ]
+    },
+    {
+        "course_number": "BIOL 468N1",
+        "course_title": "Independent Research Project 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-468n1",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 468",
+        "course_title": "Independent Research Project 3 (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-468",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 467",
+        "course_title": "Independent Research Project 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-467",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 466",
+        "course_title": "Independent Research Project 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-466",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 465",
+        "course_title": "Conservation Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-465",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 441",
+        "course_title": "Biological Oceanography (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-441",
+        "prerequisites": [
+            "BIOL 206",
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 451",
+        "course_title": "Research in Ecology and Development in Africa (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-451",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 436",
+        "course_title": "Evolution and Society (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-436",
+        "prerequisites": [
+            "BIOL 304"
+        ]
+    },
+    {
+        "course_number": "BIOL 355",
+        "course_title": "Trees: Ecology and Evolution (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-355",
+        "prerequisites": [
+            "BIOL 205",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 352",
+        "course_title": "Dinosaur Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-352",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 202",
+            "EPSC 233"
+        ]
+    },
+    {
+        "course_number": "BIOL 363",
+        "course_title": "Mammalian Evolution (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-363",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 506",
+        "course_title": "Neurobiology of Learning (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-506",
+        "prerequisites": [
+            "BIOL 306",
+            "NEUR 310",
+            "NSCI 200",
+            "NSCI 201",
+            "PHGY 311",
+            "PHGY 314"
+        ]
+    },
+    {
+        "course_number": "BIOL 565",
+        "course_title": "Cell and Tissue Mechanobiology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-565",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 555D2",
+        "course_title": "Functional Ecology of Trees (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-555d2",
+        "prerequisites": [
+            "BIOL 555D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 568",
+        "course_title": "Topics on the Human Genome (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-568",
+        "prerequisites": [
+            "BIOL 200",
+            "BIOL 219",
+            "BIOL 300",
+            "BIOL 302"
+        ]
+    },
+    {
+        "course_number": "BIOL 553",
+        "course_title": "Neotropical Environments (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-553",
+        "prerequisites": [
+            "HISP 218",
+            "MATH 203",
+            "BIOL 215"
+        ]
+    },
+    {
+        "course_number": "BIOL 551",
+        "course_title": "Principles of Cellular Control (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-551",
+        "prerequisites": [
+            "CHEM 115",
+            "MATH 133",
+            "PHYS 142",
+            "BIOL 201",
+            "BIOC 212",
+            "COMP 202",
+            "PHYS 230",
+            "PHYS 319"
+        ]
+    },
+    {
+        "course_number": "BIOL 546",
+        "course_title": "Genetics of Model Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-546",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 300",
+            "BIOL 303"
+        ]
+    },
+    {
+        "course_number": "BIOL 555D1",
+        "course_title": "Functional Ecology of Trees (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-555d1",
+        "prerequisites": [
+            "BIOL 304",
+            "BIOL 308"
+        ]
+    },
+    {
+        "course_number": "BIOL 532",
+        "course_title": "Developmental Neurobiology Seminar (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-532",
+        "prerequisites": [
+            "BIOL 303",
+            "BIOL 306"
+        ]
+    },
+    {
+        "course_number": "BIOL 530",
+        "course_title": "Advances in Neuroethology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-530",
+        "prerequisites": [
+            "BIOL 306",
+            "NSCI 200",
+            "NSCI 201",
+            "PHGY 311"
+        ]
+    },
+    {
+        "course_number": "BIOL 544",
+        "course_title": "Genetic Basis of Life Span (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-544",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 300"
+        ]
+    },
+    {
+        "course_number": "BIOL 540",
+        "course_title": "Ecology of Species Invasions (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-540",
+        "prerequisites": [
+            "BIOL 215",
+            "ENVR 200",
+            "ENVR 202"
+        ]
+    },
+    {
+        "course_number": "BIOL 524",
+        "course_title": "Topics in Molecular Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-524",
+        "prerequisites": [
+            "BIOL 300",
+            "BIOL 303"
+        ]
+    },
+    {
+        "course_number": "BIOL 520",
+        "course_title": "Gene Activity in Development (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-520",
+        "prerequisites": [
+            "BIOL 300",
+            "BIOL 303"
+        ]
+    },
+    {
+        "course_number": "BIOL 518",
+        "course_title": "Advanced Topics in Cell Biology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-518",
+        "prerequisites": [
+            "BIOL 313"
+        ]
+    },
+    {
+        "course_number": "BIOL 515",
+        "course_title": "Advances in Aquatic Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-515",
+        "prerequisites": [
+            "BIOL 432",
+            "BIOL 441"
+        ]
+    },
+    {
+        "course_number": "BIOL 507",
+        "course_title": "Animal Communication (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-507",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 509",
+        "course_title": "Methods in Molecular Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-509",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 517",
+        "course_title": "Cognitive Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-517",
+        "prerequisites": [
+            "BIOL 307"
+        ]
+    },
+    {
+        "course_number": "BIOL 510",
+        "course_title": "Advances in Community Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-510",
+        "prerequisites": [
+            "BIOL 308",
+            "GEOG 350"
+        ]
+    },
+    {
+        "course_number": "BIOL 640",
+        "course_title": "Tropical Biology and Conservation (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-640",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 632",
+        "course_title": "Advanced Limnology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-632",
+        "prerequisites": [
+            "BIOL 206"
+        ]
+    },
+    {
+        "course_number": "BIOL 645",
+        "course_title": "Biodiversity Science (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-645",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 610",
+        "course_title": "Scientific Manuscript Writing (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-610",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 603",
+        "course_title": "Organismal Biology Research and Professional Skills (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-603",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 597",
+        "course_title": "Advanced Biostatistics (2 credits)",
+        "credits": 2,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-597",
+        "prerequisites": [
+            "BIOL 373",
+            "BIOL 596"
+        ]
+    },
+    {
+        "course_number": "BIOL 598",
+        "course_title": "Advanced Design and Statistics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-598",
+        "prerequisites": [
+            "BIOL 373"
+        ]
+    },
+    {
+        "course_number": "BIOL 601",
+        "course_title": "Introduction to Graduate Studies in Biology (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-601",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 602",
+        "course_title": "Molecular Biology Research and Professional Skills (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-602",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 594",
+        "course_title": "Advanced Evolutionary Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-594",
+        "prerequisites": [
+            "BIOL 304",
+            "BIOL 308"
+        ]
+    },
+    {
+        "course_number": "BIOL 596",
+        "course_title": "Advanced Experimental Design (1 credit)",
+        "credits": 1,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-596",
+        "prerequisites": [
+            "BIOL 373"
+        ]
+    },
+    {
+        "course_number": "BIOL 592",
+        "course_title": "Integrated Bioinformatics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-592",
+        "prerequisites": [
+            "BIOL 301"
+        ]
+    },
+    {
+        "course_number": "BIOL 590",
+        "course_title": "Linking Community and Ecosystem Ecology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-590",
+        "prerequisites": [
+            "BIOL 434"
+        ]
+    },
+    {
+        "course_number": "BIOL 585",
+        "course_title": "Game Theory and Evolutionary Dynamics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-585",
+        "prerequisites": [
+            "BIOL 308",
+            "BIOL 434"
+        ]
+    },
+    {
+        "course_number": "BIOL 580",
+        "course_title": "Genetic Approaches to Neural Systems (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-580",
+        "prerequisites": [
+            "BIOL 306"
+        ]
+    },
+    {
+        "course_number": "BIOL 583",
+        "course_title": "Advanced Biometry (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-583",
+        "prerequisites": [
+            "BIOL 373"
+        ]
+    },
+    {
+        "course_number": "BIOL 588",
+        "course_title": "Advances in Molecular/Cellular Neurobiology (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-588",
+        "prerequisites": [
+            "BIOL 300",
+            "BIOL 306"
+        ]
+    },
+    {
+        "course_number": "BIOL 569",
+        "course_title": "Developmental Evolution (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-569",
+        "prerequisites": [
+            "BIOL 303",
+            "BIOL 304"
+        ]
+    },
+    {
+        "course_number": "BIOL 575",
+        "course_title": "Human Biochemical Genetics (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-575",
+        "prerequisites": [
+            "BIOL 202",
+            "BIOL 302",
+            "BIOL 300"
+        ]
+    },
+    {
+        "course_number": "BIOL 573",
+        "course_title": "Vertebrate Palaeontology Field Course (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-573",
+        "prerequisites": [
+            "BIOL 304",
+            "BIOL 352"
+        ]
+    },
+    {
+        "course_number": "BIOL 699",
+        "course_title": "Master's Thesis Research 3 (13 credits)",
+        "credits": 13,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-699",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 698",
+        "course_title": "Master's Thesis Research 2 (13 credits)",
+        "credits": 13,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-698",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 702",
+        "course_title": "Ph.D. Seminar (6 credits)",
+        "credits": 6,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-702",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 700",
+        "course_title": "Doctoral Qualifying Examination",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-700",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 655",
+        "course_title": "Laboratory Projects and Techniques 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-655",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 652D2",
+        "course_title": "Recent Advances in Biology 3 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-652d2",
+        "prerequisites": [
+            "BIOL 652D1"
+        ]
+    },
+    {
+        "course_number": "BIOL 697",
+        "course_title": "Master's Thesis Research 1 (13 credits)",
+        "credits": 13,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-697",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 690",
+        "course_title": "Master's Thesis Research 4 (10 credits)",
+        "credits": 10,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-690",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 652D1",
+        "course_title": "Recent Advances in Biology 3 (1.5 credits)",
+        "credits": 0.0,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-652d1",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 651",
+        "course_title": "Recent Advances in Biology 2 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-651",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 652",
+        "course_title": "Recent Advances in Biology 3 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-652",
+        "prerequisites": []
+    },
+    {
+        "course_number": "BIOL 650",
+        "course_title": "Recent Advances in Biology 1 (3 credits)",
+        "credits": 3,
+        "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-650",
+        "prerequisites": []
+    }
+]

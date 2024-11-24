@@ -1,0 +1,5259 @@
+[
+    {
+        "program": "Bachelor of Arts (B.A.) - Major Concentration Computer Science (36 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/arts/undergraduate/programs/bachelor-arts-ba-major-concentration-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Arts (B.A.) - Minor Concentration Computer Science (18 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/arts/undergraduate/programs/bachelor-arts-ba-minor-concentration-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 140",
+                "course_title": "Calculus 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 230",
+                "course_title": "Logic and Computability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-230",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Arts (B.A.) - Supplementary Minor Concentration in Computer Science (18 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/arts/undergraduate/programs/bachelor-arts-ba-supplementary-minor-concentration-computer-science",
+        "courses": [
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Engineering (B.Eng.) - Minor Computer Science (26 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/engineering/undergraduate/programs/bachelor-engineering-beng-minor-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "ECSE 250",
+                "course_title": "Fundamentals of Software Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/ecse-250",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "ECSE 324",
+                "course_title": "Computer Organization",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/ecse-324",
+                "prerequisites": []
+            },
+            {
+                "course_number": "CHEE 390",
+                "course_title": "Computational Methods in Chemical Engineering",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/chee-390",
+                "prerequisites": []
+            },
+            {
+                "course_number": "CIVE 320",
+                "course_title": "Numerical Methods",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/cive-320",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "ECSE 343",
+                "course_title": "Numerical Methods in Engineering",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/ecse-343",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 317",
+                "course_title": "Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-317",
+                "prerequisites": [
+                    "MATH 315",
+                    "MATH 325",
+                    "MATH 263",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MECH 309",
+                "course_title": "Numerical Methods in Mechanical Engineering",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/mech-309",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Computer Science and Biology (74 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-and-biology",
+        "courses": [
+            {
+                "course_number": "BIOL 219",
+                "course_title": "Introduction to Physical\r Molecular and Cell Biology",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-219",
+                "prerequisites": [
+                    "BIOL 112",
+                    "CHEM 110",
+                    "CHEM 120",
+                    "MATH 140",
+                    "MATH 141",
+                    "MATH 133",
+                    "PHYS 131",
+                    "PHYS 142"
+                ]
+            },
+            {
+                "course_number": "BIOL 301",
+                "course_title": "Cell and Molecular Laboratory",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-301",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "CHEM 212",
+                "course_title": "Introductory Organic Chemistry 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-212",
+                "prerequisites": [
+                    "CHEM 110",
+                    "CHEM 120"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 204",
+                "course_title": "Computer Programming for Life Sciences",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-204",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 202",
+                "course_title": "Basic Genetics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-202",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 215",
+                "course_title": "Introduction to Ecology and Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-215",
+                "prerequisites": [
+                    "BIOL 111"
+                ]
+            },
+            {
+                "course_number": "COMP 401",
+                "course_title": "Project in Biology and Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-401",
+                "prerequisites": [
+                    "COMP 251",
+                    "BIOL 301"
+                ]
+            },
+            {
+                "course_number": "COMP 462",
+                "course_title": "Computational Biology Methods",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-462",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 323",
+                    "MATH 203",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "COMP 561",
+                "course_title": "Computational Biology Methods and Research",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-561",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 323",
+                    "MATH 203",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "MATH 315",
+                "course_title": "Ordinary Differential Equations",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-315",
+                "prerequisites": [
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 300",
+                "course_title": "Molecular Biology of the Gene",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-300",
+                "prerequisites": [
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 303",
+                "course_title": "Developmental Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-303",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 304",
+                "course_title": "Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-304",
+                "prerequisites": [
+                    "BIOL 205",
+                    "BIOL 215",
+                    "ENVR 202"
+                ]
+            },
+            {
+                "course_number": "BIOL 306",
+                "course_title": "Neural Basis of Behaviour",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-306",
+                "prerequisites": [
+                    "PHYS 102",
+                    "PHYS 142",
+                    "BIOL 216",
+                    "NSCI 200",
+                    "PHGY 209"
+                ]
+            },
+            {
+                "course_number": "BIOL 308",
+                "course_title": "Ecological Dynamics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-308",
+                "prerequisites": [
+                    "BIOL 215",
+                    "ENVR 200",
+                    "ENVR 202"
+                ]
+            },
+            {
+                "course_number": "BIOL 309",
+                "course_title": "Mathematical Models in Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-309",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 310",
+                "course_title": "Biodiversity and Ecosystems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-310",
+                "prerequisites": [
+                    "BIOL 215",
+                    "ENVR 200",
+                    "ENVR 202",
+                    "MATH 112"
+                ]
+            },
+            {
+                "course_number": "BIOL 313",
+                "course_title": "Eukaryotic Cell Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-313",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 314",
+                "course_title": "Molecular Biology of\r Cancer",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-314",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 316",
+                "course_title": "Biomembranes and Organelles",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-316",
+                "prerequisites": [
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 319",
+                "course_title": "Introduction to Biophysics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-319",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219",
+                    "MATH 222",
+                    "PHYS 230",
+                    "PHYS 232",
+                    "PHYS 253"
+                ]
+            },
+            {
+                "course_number": "BIOL 320",
+                "course_title": "Evolution of Brain and Behaviour",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-320",
+                "prerequisites": [
+                    "NSCI 201",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 370",
+                "course_title": "Human Genetics Applied",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-370",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 389",
+                "course_title": "Laboratory in Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-389",
+                "prerequisites": [
+                    "BIOL 306",
+                    "NSCI 200",
+                    "PHGY 311",
+                    "NEUR 310"
+                ]
+            },
+            {
+                "course_number": "BIOL 416",
+                "course_title": "Genetics of Mammalian Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-416",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 434",
+                "course_title": "Theoretical Ecology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-434",
+                "prerequisites": [
+                    "BIOL 308",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "BIOL 435",
+                "course_title": "Natural Selection",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-435",
+                "prerequisites": [
+                    "BIOL 304"
+                ]
+            },
+            {
+                "course_number": "BIOL 509",
+                "course_title": "Methods in Molecular Ecology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-509",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 518",
+                "course_title": "Advanced Topics in Cell Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-518",
+                "prerequisites": [
+                    "BIOL 313"
+                ]
+            },
+            {
+                "course_number": "BIOL 520",
+                "course_title": "Gene Activity in Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-520",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 524",
+                "course_title": "Topics in Molecular Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-524",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 530",
+                "course_title": "Advances in Neuroethology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-530",
+                "prerequisites": [
+                    "BIOL 306",
+                    "NSCI 200",
+                    "NSCI 201",
+                    "PHGY 311"
+                ]
+            },
+            {
+                "course_number": "BIOL 532",
+                "course_title": "Developmental Neurobiology Seminar",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-532",
+                "prerequisites": [
+                    "BIOL 303",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 546",
+                "course_title": "Genetics of Model Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-546",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 551",
+                "course_title": "Principles of Cellular Control",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-551",
+                "prerequisites": [
+                    "CHEM 115",
+                    "MATH 133",
+                    "PHYS 142",
+                    "BIOL 201",
+                    "BIOC 212",
+                    "COMP 202",
+                    "PHYS 230",
+                    "PHYS 319"
+                ]
+            },
+            {
+                "course_number": "BIOL 568",
+                "course_title": "Topics on the Human Genome",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-568",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219",
+                    "BIOL 300",
+                    "BIOL 302"
+                ]
+            },
+            {
+                "course_number": "BIOL 569",
+                "course_title": "Developmental Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-569",
+                "prerequisites": [
+                    "BIOL 303",
+                    "BIOL 304"
+                ]
+            },
+            {
+                "course_number": "BIOL 575",
+                "course_title": "Human Biochemical Genetics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-575",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300"
+                ]
+            },
+            {
+                "course_number": "BIOL 580",
+                "course_title": "Genetic Approaches to Neural Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-580",
+                "prerequisites": [
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 588",
+                "course_title": "Advances in Molecular/Cellular Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-588",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "NEUR 310",
+                "course_title": "Cellular Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/neur-310",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Honours Computer Science and Biology (77 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-computer-science-and-biology",
+        "courses": [
+            {
+                "course_number": "BIOL 219",
+                "course_title": "Introduction to Physical\r Molecular and Cell Biology",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-219",
+                "prerequisites": [
+                    "BIOL 112",
+                    "CHEM 110",
+                    "CHEM 120",
+                    "MATH 140",
+                    "MATH 141",
+                    "MATH 133",
+                    "PHYS 131",
+                    "PHYS 142"
+                ]
+            },
+            {
+                "course_number": "BIOL 301",
+                "course_title": "Cell and Molecular Laboratory",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-301",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "CHEM 212",
+                "course_title": "Introductory Organic Chemistry 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-212",
+                "prerequisites": [
+                    "CHEM 110",
+                    "CHEM 120"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 204",
+                "course_title": "Computer Programming for Life Sciences",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-204",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 252",
+                "course_title": "Honours Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 561",
+                "course_title": "Computational Biology Methods and Research",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-561",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 323",
+                    "MATH 203",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 202",
+                "course_title": "Basic Genetics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-202",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 215",
+                "course_title": "Introduction to Ecology and Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-215",
+                "prerequisites": [
+                    "BIOL 111"
+                ]
+            },
+            {
+                "course_number": "MATH 315",
+                "course_title": "Ordinary Differential Equations",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-315",
+                "prerequisites": [
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 300",
+                "course_title": "Molecular Biology of the Gene",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-300",
+                "prerequisites": [
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 303",
+                "course_title": "Developmental Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-303",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 304",
+                "course_title": "Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-304",
+                "prerequisites": [
+                    "BIOL 205",
+                    "BIOL 215",
+                    "ENVR 202"
+                ]
+            },
+            {
+                "course_number": "BIOL 306",
+                "course_title": "Neural Basis of Behaviour",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-306",
+                "prerequisites": [
+                    "PHYS 102",
+                    "PHYS 142",
+                    "BIOL 216",
+                    "NSCI 200",
+                    "PHGY 209"
+                ]
+            },
+            {
+                "course_number": "BIOL 308",
+                "course_title": "Ecological Dynamics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-308",
+                "prerequisites": [
+                    "BIOL 215",
+                    "ENVR 200",
+                    "ENVR 202"
+                ]
+            },
+            {
+                "course_number": "BIOL 309",
+                "course_title": "Mathematical Models in Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-309",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 310",
+                "course_title": "Biodiversity and Ecosystems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-310",
+                "prerequisites": [
+                    "BIOL 215",
+                    "ENVR 200",
+                    "ENVR 202",
+                    "MATH 112"
+                ]
+            },
+            {
+                "course_number": "BIOL 313",
+                "course_title": "Eukaryotic Cell Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-313",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 314",
+                "course_title": "Molecular Biology of\r Cancer",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-314",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212",
+                    "BIOL 219"
+                ]
+            },
+            {
+                "course_number": "BIOL 316",
+                "course_title": "Biomembranes and Organelles",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-316",
+                "prerequisites": [
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 319",
+                "course_title": "Introduction to Biophysics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-319",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219",
+                    "MATH 222",
+                    "PHYS 230",
+                    "PHYS 232",
+                    "PHYS 253"
+                ]
+            },
+            {
+                "course_number": "BIOL 320",
+                "course_title": "Evolution of Brain and Behaviour",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-320",
+                "prerequisites": [
+                    "NSCI 201",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 370",
+                "course_title": "Human Genetics Applied",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-370",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 219",
+                    "BIOL 200",
+                    "BIOL 201",
+                    "ANAT 212",
+                    "BIOC 212"
+                ]
+            },
+            {
+                "course_number": "BIOL 389",
+                "course_title": "Laboratory in Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-389",
+                "prerequisites": [
+                    "BIOL 306",
+                    "NSCI 200",
+                    "PHGY 311",
+                    "NEUR 310"
+                ]
+            },
+            {
+                "course_number": "BIOL 416",
+                "course_title": "Genetics of Mammalian Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-416",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 434",
+                "course_title": "Theoretical Ecology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-434",
+                "prerequisites": [
+                    "BIOL 308",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "BIOL 435",
+                "course_title": "Natural Selection",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-435",
+                "prerequisites": [
+                    "BIOL 304"
+                ]
+            },
+            {
+                "course_number": "BIOL 509",
+                "course_title": "Methods in Molecular Ecology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-509",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 518",
+                "course_title": "Advanced Topics in Cell Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-518",
+                "prerequisites": [
+                    "BIOL 313"
+                ]
+            },
+            {
+                "course_number": "BIOL 520",
+                "course_title": "Gene Activity in Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-520",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 524",
+                "course_title": "Topics in Molecular Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-524",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 530",
+                "course_title": "Advances in Neuroethology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-530",
+                "prerequisites": [
+                    "BIOL 306",
+                    "NSCI 200",
+                    "NSCI 201",
+                    "PHGY 311"
+                ]
+            },
+            {
+                "course_number": "BIOL 532",
+                "course_title": "Developmental Neurobiology Seminar",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-532",
+                "prerequisites": [
+                    "BIOL 303",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 546",
+                "course_title": "Genetics of Model Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-546",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300",
+                    "BIOL 303"
+                ]
+            },
+            {
+                "course_number": "BIOL 551",
+                "course_title": "Principles of Cellular Control",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-551",
+                "prerequisites": [
+                    "CHEM 115",
+                    "MATH 133",
+                    "PHYS 142",
+                    "BIOL 201",
+                    "BIOC 212",
+                    "COMP 202",
+                    "PHYS 230",
+                    "PHYS 319"
+                ]
+            },
+            {
+                "course_number": "BIOL 568",
+                "course_title": "Topics on the Human Genome",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-568",
+                "prerequisites": [
+                    "BIOL 200",
+                    "BIOL 219",
+                    "BIOL 300",
+                    "BIOL 302"
+                ]
+            },
+            {
+                "course_number": "BIOL 569",
+                "course_title": "Developmental Evolution",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-569",
+                "prerequisites": [
+                    "BIOL 303",
+                    "BIOL 304"
+                ]
+            },
+            {
+                "course_number": "BIOL 575",
+                "course_title": "Human Biochemical Genetics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-575",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "BIOL 300"
+                ]
+            },
+            {
+                "course_number": "BIOL 580",
+                "course_title": "Genetic Approaches to Neural Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-580",
+                "prerequisites": [
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "BIOL 588",
+                "course_title": "Advances in Molecular/Cellular Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-588",
+                "prerequisites": [
+                    "BIOL 300",
+                    "BIOL 306"
+                ]
+            },
+            {
+                "course_number": "NEUR 310",
+                "course_title": "Cellular Neurobiology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/neur-310",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Computer Science - Artificial Intelligence (63 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-artificial-intelligence",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 424",
+                "course_title": "Artificial Intelligence",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-424",
+                "prerequisites": [
+                    "COMP 206",
+                    "ECSE 321",
+                    "MATH 323",
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 421",
+                "course_title": "Database Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-421",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 251",
+                    "COMP 302"
+                ]
+            },
+            {
+                "course_number": "COMP 451",
+                "course_title": "Fundamentals of Machine Learning",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-451",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 222",
+                    "MATH 223",
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 551",
+                "course_title": "Applied Machine Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-551",
+                "prerequisites": [
+                    "MATH 323",
+                    "ECSE 205",
+                    "COMP 202",
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "COMP 345",
+                "course_title": "From Natural Language to Data Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-345",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 370",
+                "course_title": "Introduction to Data\r Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-370",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 417",
+                "course_title": "Introduction Robotics and Intelligent Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-417",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 223",
+                    "ECSE 321",
+                    "COMP 206"
+                ]
+            },
+            {
+                "course_number": "COMP 445",
+                "course_title": "Computational Linguistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-445",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 511",
+                "course_title": "Network Science",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-511",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "COMP 514",
+                "course_title": "Applied Robotics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-514",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 323",
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 545",
+                "course_title": "Natural Language Understanding with Deep Learning\r",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-545",
+                "prerequisites": [
+                    "COMP 345",
+                    "LING 345",
+                    "COMP 445",
+                    "LING 445",
+                    "COMP 550",
+                    "COMP 551"
+                ]
+            },
+            {
+                "course_number": "COMP 549",
+                "course_title": "Brain-Inspired Artificial Intelligence",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-549",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 550",
+                "course_title": "Natural Language Processing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-550",
+                "prerequisites": [
+                    "MATH 323",
+                    "ECSE 305",
+                    "COMP 251",
+                    "COMP 252"
+                ]
+            },
+            {
+                "course_number": "COMP 558",
+                "course_title": "Fundamentals of Computer Vision",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-558",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 222",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "COMP 562",
+                "course_title": "Theory of Machine Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-562",
+                "prerequisites": [
+                    "MATH 462",
+                    "COMP 451",
+                    "COMP 551",
+                    "MATH 222",
+                    "MATH 223",
+                    "MATH 324",
+                    "ECSE 551"
+                ]
+            },
+            {
+                "course_number": "COMP 565",
+                "course_title": "Machine Learning in Genomics and Healthcare",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-565",
+                "prerequisites": [
+                    "BIOL 202",
+                    "BIOL 302",
+                    "MATH 324",
+                    "COMP 451",
+                    "COMP 551"
+                ]
+            },
+            {
+                "course_number": "COMP 579",
+                "course_title": "Reinforcement Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-579",
+                "prerequisites": [
+                    "COMP 451",
+                    "COMP 551",
+                    "MATH 222",
+                    "MATH 223",
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 585",
+                "course_title": "Intelligent Software\r Systems\r",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-585",
+                "prerequisites": [
+                    "COMP 303",
+                    "COMP 424",
+                    "COMP 551"
+                ]
+            },
+            {
+                "course_number": "ECSE 552",
+                "course_title": "Deep Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/ecse-552",
+                "prerequisites": []
+            },
+            {
+                "course_number": "ECSE 557",
+                "course_title": "Introduction to Ethics of Intelligent Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/ecse-557",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Computer Science - Computer Games (65 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-computer-games",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 557",
+                "course_title": "Fundamentals of Computer Graphics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-557",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 250",
+                    "COMP 206"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "COMP 424",
+                "course_title": "Artificial Intelligence",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-424",
+                "prerequisites": [
+                    "COMP 206",
+                    "ECSE 321",
+                    "MATH 323",
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 521",
+                "course_title": "Modern Computer Games",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-521",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 223",
+                    "COMP 303",
+                    "COMP 361"
+                ]
+            },
+            {
+                "course_number": "COMP 529",
+                "course_title": "Software Architecture",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-529",
+                "prerequisites": [
+                    "COMP 303"
+                ]
+            },
+            {
+                "course_number": "COMP 533",
+                "course_title": "Model-Driven Software Development",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-533",
+                "prerequisites": [
+                    "ECSE 321",
+                    "COMP 303",
+                    "COMP 361"
+                ]
+            },
+            {
+                "course_number": "COMP 551",
+                "course_title": "Applied Machine Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-551",
+                "prerequisites": [
+                    "MATH 323",
+                    "ECSE 205",
+                    "COMP 202",
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "COMP 559",
+                "course_title": "Fundamentals of Computer Animation",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-559",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 409",
+                "course_title": "Concurrent Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-409",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 302",
+                    "COMP 310",
+                    "ECSE 427"
+                ]
+            },
+            {
+                "course_number": "COMP 421",
+                "course_title": "Database Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-421",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 251",
+                    "COMP 302"
+                ]
+            },
+            {
+                "course_number": "COMP 535",
+                "course_title": "Computer Networks 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-535",
+                "prerequisites": [
+                    "COMP 310",
+                    "ECSE 427"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Computer Science (63 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Minor Computer Science (24 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-minor-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Mathematics and Computer Science (72 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-mathematics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 140",
+                "course_title": "Calculus 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 141",
+                "course_title": "Calculus 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-141",
+                "prerequisites": [
+                    "MATH 139",
+                    "MATH 140",
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 235",
+                "course_title": "Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-235",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 236",
+                "course_title": "Algebra 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-236",
+                "prerequisites": [
+                    "MATH 235"
+                ]
+            },
+            {
+                "course_number": "MATH 242",
+                "course_title": "Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-242",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 315",
+                "course_title": "Ordinary Differential Equations",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-315",
+                "prerequisites": [
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 317",
+                "course_title": "Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-317",
+                "prerequisites": [
+                    "MATH 315",
+                    "MATH 325",
+                    "MATH 263",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 204",
+                "course_title": "Principles of Statistics 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-204",
+                "prerequisites": [
+                    "MATH 203"
+                ]
+            },
+            {
+                "course_number": "MATH 208",
+                "course_title": "Introduction to Statistical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-208",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 308",
+                "course_title": "Fundamentals of Statistical Learning",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-308",
+                "prerequisites": [
+                    "MATH 208",
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 323",
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "MATH 319",
+                "course_title": "Partial Differential\r Equations\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-319",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 314",
+                    "MATH 315"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 326",
+                "course_title": "Nonlinear Dynamics and Chaos",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-326",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "MATH 327",
+                "course_title": "Matrix Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-327",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 329",
+                "course_title": "Theory of Interest",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-329",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 338",
+                "course_title": "History and Philosophy of Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-338",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 346",
+                "course_title": "Number Theory",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-346",
+                "prerequisites": [
+                    "MATH 235"
+                ]
+            },
+            {
+                "course_number": "MATH 348",
+                "course_title": "Euclidean Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-348",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 378",
+                "course_title": "Nonlinear Optimization\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-378",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 247",
+                    "MATH 236",
+                    "MATH 251",
+                    "MATH 248",
+                    "MATH 314",
+                    "MATH 358",
+                    "MATH 243",
+                    "MATH 255"
+                ]
+            },
+            {
+                "course_number": "MATH 410",
+                "course_title": "Majors Project",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-410",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 417",
+                "course_title": "Linear Optimization",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-417",
+                "prerequisites": [
+                    "COMP 202",
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 314"
+                ]
+            },
+            {
+                "course_number": "MATH 423",
+                "course_title": "Applied Regression",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-423",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 223",
+                    "MATH 236"
+                ]
+            },
+            {
+                "course_number": "MATH 427",
+                "course_title": "Statistical Quality Control",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-427",
+                "prerequisites": [
+                    "MATH 203",
+                    "MATH 204",
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 430",
+                "course_title": "Mathematical Finance",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-430",
+                "prerequisites": [
+                    "MATH 243",
+                    "MATH 255",
+                    "MATH 323",
+                    "MATH 356",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 447",
+                "course_title": "Introduction to Stochastic Processes",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-447",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 463",
+                "course_title": "Convex Optimization",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-463",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 247",
+                    "MATH 236",
+                    "MATH 251",
+                    "MATH 248",
+                    "MATH 314",
+                    "MATH 358",
+                    "MATH 243",
+                    "MATH 255",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "MATH 478",
+                "course_title": "Computational Methods in Applied Mathematics\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-478",
+                "prerequisites": [
+                    "MATH 315",
+                    "MATH 325",
+                    "MATH 263",
+                    "MATH 317",
+                    "MATH 387",
+                    "COMP 350",
+                    "MECH 309"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Physics and Computer Science (66 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-physics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "CHEM 110",
+                "course_title": "General Chemistry 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-110",
+                "prerequisites": [
+                    "CHEM 120"
+                ]
+            },
+            {
+                "course_number": "CHEM 120",
+                "course_title": "General Chemistry 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/chem-120",
+                "prerequisites": [
+                    "CHEM 110"
+                ]
+            },
+            {
+                "course_number": "PHYS 131",
+                "course_title": "Mechanics and Waves",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-131",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 142",
+                "course_title": "Electromagnetism and Optics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-142",
+                "prerequisites": [
+                    "PHYS 131"
+                ]
+            },
+            {
+                "course_number": "BIOL 111",
+                "course_title": "Principles: Organismal Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-111",
+                "prerequisites": []
+            },
+            {
+                "course_number": "BIOL 112",
+                "course_title": "Cell and Molecular Biology",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/biol-112",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 140",
+                "course_title": "Calculus 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 141",
+                "course_title": "Calculus 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-141",
+                "prerequisites": [
+                    "MATH 139",
+                    "MATH 140",
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "MATH 150",
+                "course_title": "Calculus A",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-150",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 151",
+                "course_title": "Calculus B",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-151",
+                "prerequisites": [
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 230",
+                "course_title": "Dynamics of Simple Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-230",
+                "prerequisites": [
+                    "PHYS 131"
+                ]
+            },
+            {
+                "course_number": "PHYS 257",
+                "course_title": "Experimental Methods 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-257",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 258",
+                "course_title": "Experimental Methods 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-258",
+                "prerequisites": [
+                    "PHYS 257"
+                ]
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "MATH 314",
+                "course_title": "Advanced Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-314",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 315",
+                "course_title": "Ordinary Differential Equations",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-315",
+                "prerequisites": [
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "PHYS 232",
+                "course_title": "Heat and Waves",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-232",
+                "prerequisites": [
+                    "PHYS 142",
+                    "CHEM 120",
+                    "PHYS 230"
+                ]
+            },
+            {
+                "course_number": "PHYS 241",
+                "course_title": "Signal Processing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-241",
+                "prerequisites": [
+                    "PHYS 142"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "PHYS 331",
+                "course_title": "Topics in Classical Mechanics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-331",
+                "prerequisites": [
+                    "PHYS 230"
+                ]
+            },
+            {
+                "course_number": "PHYS 339",
+                "course_title": "Measurements Laboratory in General Physics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-339",
+                "prerequisites": [
+                    "PHYS 241"
+                ]
+            },
+            {
+                "course_number": "PHYS 340",
+                "course_title": "Majors Electricity and Magnetism",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-340",
+                "prerequisites": [
+                    "PHYS 142",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "PHYS 346",
+                "course_title": "Majors Quantum Physics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-346",
+                "prerequisites": [
+                    "PHYS 230",
+                    "PHYS 232",
+                    "PHYS 251"
+                ]
+            },
+            {
+                "course_number": "PHYS 489",
+                "course_title": "Special Project",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-489",
+                "prerequisites": []
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Major Statistics and Computer Science (72 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-major-statistics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 140",
+                "course_title": "Calculus 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 141",
+                "course_title": "Calculus 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-141",
+                "prerequisites": [
+                    "MATH 139",
+                    "MATH 140",
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 235",
+                "course_title": "Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-235",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 236",
+                "course_title": "Algebra 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-236",
+                "prerequisites": [
+                    "MATH 235"
+                ]
+            },
+            {
+                "course_number": "MATH 242",
+                "course_title": "Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-242",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 314",
+                "course_title": "Advanced Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-314",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 317",
+                "course_title": "Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-317",
+                "prerequisites": [
+                    "MATH 315",
+                    "MATH 325",
+                    "MATH 263",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 423",
+                "course_title": "Applied Regression",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-423",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 223",
+                    "MATH 236"
+                ]
+            },
+            {
+                "course_number": "MATH 204",
+                "course_title": "Principles of Statistics 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-204",
+                "prerequisites": [
+                    "MATH 203"
+                ]
+            },
+            {
+                "course_number": "MATH 208",
+                "course_title": "Introduction to Statistical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-208",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 308",
+                "course_title": "Fundamentals of Statistical Learning",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-308",
+                "prerequisites": [
+                    "MATH 208",
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 323",
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "MATH 327",
+                "course_title": "Matrix Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-327",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 350",
+                "course_title": "Honours Discrete Mathematics\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-350",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 251",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "MATH 410",
+                "course_title": "Majors Project",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-410",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 427",
+                "course_title": "Statistical Quality Control",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-427",
+                "prerequisites": [
+                    "MATH 203",
+                    "MATH 204",
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 447",
+                "course_title": "Introduction to Stochastic Processes",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-447",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 523",
+                "course_title": "Generalized Linear Models",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-523",
+                "prerequisites": [
+                    "MATH 423",
+                    "MATH 533",
+                    "EPIB 697"
+                ]
+            },
+            {
+                "course_number": "MATH 524",
+                "course_title": "Nonparametric Statistics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-524",
+                "prerequisites": [
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 525",
+                "course_title": "Sampling Theory and Applications",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-525",
+                "prerequisites": [
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 545",
+                "course_title": "Introduction to Time Series Analysis",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-545",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 357"
+                ]
+            },
+            {
+                "course_number": "MATH 558",
+                "course_title": "Design of Experiments",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-558",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 208",
+                    "MATH 324",
+                    "MATH 357"
+                ]
+            },
+            {
+                "course_number": "MATH 559",
+                "course_title": "Bayesian Theory and Methods",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-559",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 357",
+                    "MATH 557",
+                    "MATH 208"
+                ]
+            },
+            {
+                "course_number": "MATH 578",
+                "course_title": "Numerical Analysis 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-578",
+                "prerequisites": [
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 387"
+                ]
+            },
+            {
+                "course_number": "MATH 598",
+                "course_title": "Topics in Probability and Statistics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-598",
+                "prerequisites": [
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "COMP 424",
+                "course_title": "Artificial Intelligence",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-424",
+                "prerequisites": [
+                    "COMP 206",
+                    "ECSE 321",
+                    "MATH 323",
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 462",
+                "course_title": "Computational Biology Methods",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-462",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 323",
+                    "MATH 203",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "COMP 540",
+                "course_title": "Matrix Computations",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-540",
+                "prerequisites": [
+                    "MATH 327",
+                    "COMP 350"
+                ]
+            },
+            {
+                "course_number": "COMP 547",
+                "course_title": "Cryptography and Data Security",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-547",
+                "prerequisites": [
+                    "COMP 360",
+                    "COMP 362",
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 551",
+                "course_title": "Applied Machine Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-551",
+                "prerequisites": [
+                    "MATH 323",
+                    "ECSE 205",
+                    "COMP 202",
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "COMP 564",
+                "course_title": "Advanced Computational Biology Methods and Research",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-564",
+                "prerequisites": [
+                    "COMP 462"
+                ]
+            },
+            {
+                "course_number": "COMP 566",
+                "course_title": "Discrete Optimization 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-566",
+                "prerequisites": [
+                    "COMP 360",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "COMP 567",
+                "course_title": "Discrete Optimization 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-567",
+                "prerequisites": [
+                    "COMP 566",
+                    "MATH 417"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Honours Computer Science (75 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 252",
+                "course_title": "Honours Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 362",
+                "course_title": "Honours Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-362",
+                "prerequisites": [
+                    "COMP 252"
+                ]
+            },
+            {
+                "course_number": "COMP 400",
+                "course_title": "Project in Computer Science",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-400",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 350",
+                "course_title": "Honours Discrete Mathematics\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-350",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 251",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Honours Mathematics and Computer Science (78 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 150",
+                "course_title": "Calculus A",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-150",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 151",
+                "course_title": "Calculus B",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-151",
+                "prerequisites": [
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 252",
+                "course_title": "Honours Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 362",
+                "course_title": "Honours Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-362",
+                "prerequisites": [
+                    "COMP 252"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 251",
+                "course_title": "Honours Algebra 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-251",
+                "prerequisites": [
+                    "MATH 235"
+                ]
+            },
+            {
+                "course_number": "MATH 255",
+                "course_title": "Honours Analysis 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-255",
+                "prerequisites": [
+                    "MATH 242",
+                    "MATH 254"
+                ]
+            },
+            {
+                "course_number": "MATH 350",
+                "course_title": "Honours Discrete Mathematics\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-350",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 251",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 204",
+                "course_title": "Computer Programming for Life Sciences",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-204",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 208",
+                "course_title": "Computer Programming for Physical Sciences and\r Engineering\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-208",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 242",
+                "course_title": "Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-242",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 254",
+                "course_title": "Honours Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-254",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 235",
+                "course_title": "Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-235",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 245",
+                "course_title": "Honours Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-245",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 248",
+                "course_title": "Honours Vector Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-248",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 358",
+                "course_title": "Honours Advanced Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-358",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 255"
+                ]
+            },
+            {
+                "course_number": "MATH 356",
+                "course_title": "Honours Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-356",
+                "prerequisites": [
+                    "MATH 243",
+                    "MATH 255",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 357",
+                "course_title": "Honours Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-357",
+                "prerequisites": [
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "MATH 387",
+                "course_title": "Honours Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-387",
+                "prerequisites": [
+                    "MATH 325",
+                    "MATH 315",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 454",
+                "course_title": "Honours Analysis 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-454",
+                "prerequisites": [
+                    "MATH 255"
+                ]
+            },
+            {
+                "course_number": "MATH 455",
+                "course_title": "Honours Analysis 4",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-455",
+                "prerequisites": [
+                    "MATH 454"
+                ]
+            },
+            {
+                "course_number": "MATH 456",
+                "course_title": "Honours Algebra 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-456",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 247",
+                    "MATH 251"
+                ]
+            },
+            {
+                "course_number": "MATH 457",
+                "course_title": "Honours Algebra 4",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-457",
+                "prerequisites": [
+                    "MATH 456"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Honours Physics and Computer Science (81 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-physics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 252",
+                "course_title": "Honours Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 247",
+                "course_title": "Honours Applied Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-247",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 248",
+                "course_title": "Honours Vector Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-248",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 249",
+                "course_title": "Honours Complex Variables",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-249",
+                "prerequisites": [
+                    "MATH 248",
+                    "MATH 358"
+                ]
+            },
+            {
+                "course_number": "MATH 314",
+                "course_title": "Advanced Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-314",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 325",
+                "course_title": "Honours Ordinary Differential Equations",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-325",
+                "prerequisites": [
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "PHYS 241",
+                "course_title": "Signal Processing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-241",
+                "prerequisites": [
+                    "PHYS 142"
+                ]
+            },
+            {
+                "course_number": "PHYS 251",
+                "course_title": "Honours Classical Mechanics 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-251",
+                "prerequisites": [
+                    "PHYS 131"
+                ]
+            },
+            {
+                "course_number": "PHYS 253",
+                "course_title": "Thermal Physics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-253",
+                "prerequisites": [
+                    "PHYS 131",
+                    "CHEM 120"
+                ]
+            },
+            {
+                "course_number": "PHYS 257",
+                "course_title": "Experimental Methods 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-257",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 258",
+                "course_title": "Experimental Methods 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-258",
+                "prerequisites": [
+                    "PHYS 257"
+                ]
+            },
+            {
+                "course_number": "PHYS 350",
+                "course_title": "Honours Electricity and Magnetism",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-350",
+                "prerequisites": [
+                    "MATH 248",
+                    "MATH 325"
+                ]
+            },
+            {
+                "course_number": "PHYS 352",
+                "course_title": "Honours Electromagnetic Waves",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-352",
+                "prerequisites": [
+                    "PHYS 350"
+                ]
+            },
+            {
+                "course_number": "PHYS 357",
+                "course_title": "Honours Quantum Physics 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-357",
+                "prerequisites": [
+                    "MATH 223",
+                    "PHYS 230",
+                    "PHYS 251",
+                    "CIVE 281"
+                ]
+            },
+            {
+                "course_number": "PHYS 362",
+                "course_title": "Statistical Mechanics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-362",
+                "prerequisites": [
+                    "MATH 248",
+                    "PHYS 253"
+                ]
+            },
+            {
+                "course_number": "PHYS 457",
+                "course_title": "Honours Quantum Physics 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-457",
+                "prerequisites": [
+                    "PHYS 357"
+                ]
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "COMP 400",
+                "course_title": "Project in Computer Science",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-400",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 479",
+                "course_title": "Physics Research Project",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-479",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 310",
+                "course_title": "Operating Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-310",
+                "prerequisites": [
+                    "COMP 273"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 362",
+                "course_title": "Honours Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-362",
+                "prerequisites": [
+                    "COMP 252"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "PHYS 351",
+                "course_title": "Honours Classical Mechanics 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-351",
+                "prerequisites": [
+                    "PHYS 251"
+                ]
+            },
+            {
+                "course_number": "PHYS 359",
+                "course_title": "Advanced Physics\r Laboratory 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-359",
+                "prerequisites": [
+                    "PHYS 258"
+                ]
+            },
+            {
+                "course_number": "PHYS 404",
+                "course_title": "Climate Physics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-404",
+                "prerequisites": [
+                    "PHYS 230",
+                    "PHYS 251",
+                    "PHYS 232",
+                    "PHYS 253",
+                    "MATH 315",
+                    "MATH 325",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "PHYS 432",
+                "course_title": "Physics of Fluids",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-432",
+                "prerequisites": [
+                    "PHYS 230",
+                    "MATH 223",
+                    "MATH 314",
+                    "MATH 315"
+                ]
+            },
+            {
+                "course_number": "PHYS 434",
+                "course_title": "Optics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-434",
+                "prerequisites": []
+            },
+            {
+                "course_number": "PHYS 469",
+                "course_title": "Advanced Physics Laboratory 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/phys-469",
+                "prerequisites": [
+                    "PHYS 258"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Honours Statistics and Computer Science (79 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-statistics-and-computer-science",
+        "courses": [
+            {
+                "course_number": "MATH 133",
+                "course_title": "Linear Algebra and Geometry",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-133",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 140",
+                "course_title": "Calculus 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-140",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 141",
+                "course_title": "Calculus 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-141",
+                "prerequisites": [
+                    "MATH 139",
+                    "MATH 140",
+                    "MATH 150"
+                ]
+            },
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 252",
+                "course_title": "Honours Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-252",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 362",
+                "course_title": "Honours Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-362",
+                "prerequisites": [
+                    "COMP 252"
+                ]
+            },
+            {
+                "course_number": "MATH 247",
+                "course_title": "Honours Applied Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-247",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 248",
+                "course_title": "Honours Vector Calculus",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-248",
+                "prerequisites": [
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 251",
+                "course_title": "Honours Algebra 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-251",
+                "prerequisites": [
+                    "MATH 235"
+                ]
+            },
+            {
+                "course_number": "MATH 255",
+                "course_title": "Honours Analysis 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-255",
+                "prerequisites": [
+                    "MATH 242",
+                    "MATH 254"
+                ]
+            },
+            {
+                "course_number": "MATH 356",
+                "course_title": "Honours Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-356",
+                "prerequisites": [
+                    "MATH 243",
+                    "MATH 255",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "MATH 357",
+                "course_title": "Honours Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-357",
+                "prerequisites": [
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "MATH 533",
+                "course_title": "Regression and Analysis of Variance",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-533",
+                "prerequisites": [
+                    "MATH 357",
+                    "MATH 247",
+                    "MATH 251"
+                ]
+            },
+            {
+                "course_number": "MATH 242",
+                "course_title": "Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-242",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 254",
+                "course_title": "Honours Analysis 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-254",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 235",
+                "course_title": "Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-235",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 245",
+                "course_title": "Honours Algebra 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-245",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 387",
+                "course_title": "Honours Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-387",
+                "prerequisites": [
+                    "MATH 325",
+                    "MATH 315",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 397",
+                "course_title": "Honours Matrix Numerical Analysis",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-397",
+                "prerequisites": [
+                    "MATH 251",
+                    "MATH 247",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 523",
+                "course_title": "Generalized Linear Models",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-523",
+                "prerequisites": [
+                    "MATH 423",
+                    "MATH 533",
+                    "EPIB 697"
+                ]
+            },
+            {
+                "course_number": "MATH 524",
+                "course_title": "Nonparametric Statistics",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-524",
+                "prerequisites": [
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 525",
+                "course_title": "Sampling Theory and Applications",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-525",
+                "prerequisites": [
+                    "MATH 324"
+                ]
+            },
+            {
+                "course_number": "MATH 556",
+                "course_title": "Mathematical Statistics 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-556",
+                "prerequisites": [
+                    "MATH 323",
+                    "MATH 356"
+                ]
+            },
+            {
+                "course_number": "MATH 557",
+                "course_title": "Mathematical Statistics 2",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-557",
+                "prerequisites": [
+                    "MATH 556",
+                    "MATH 324",
+                    "MATH 357"
+                ]
+            },
+            {
+                "course_number": "MATH 558",
+                "course_title": "Design of Experiments",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-558",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 208",
+                    "MATH 324",
+                    "MATH 357"
+                ]
+            },
+            {
+                "course_number": "MATH 559",
+                "course_title": "Bayesian Theory and Methods",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-559",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 357",
+                    "MATH 557",
+                    "MATH 208"
+                ]
+            },
+            {
+                "course_number": "MATH 350",
+                "course_title": "Honours Discrete Mathematics\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-350",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 251",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "MATH 454",
+                "course_title": "Honours Analysis 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-454",
+                "prerequisites": [
+                    "MATH 255"
+                ]
+            },
+            {
+                "course_number": "MATH 462",
+                "course_title": "Machine Learning\r",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-462",
+                "prerequisites": [
+                    "MATH 236",
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 248",
+                    "MATH 314",
+                    "MATH 358",
+                    "COMP 202"
+                ]
+            },
+            {
+                "course_number": "MATH 545",
+                "course_title": "Introduction to Time Series Analysis",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-545",
+                "prerequisites": [
+                    "MATH 324",
+                    "MATH 357"
+                ]
+            },
+            {
+                "course_number": "MATH 563",
+                "course_title": "Honours Convex Optimization\r",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-563",
+                "prerequisites": [
+                    "MATH 223",
+                    "MATH 247",
+                    "MATH 236",
+                    "MATH 251",
+                    "MATH 248",
+                    "MATH 314",
+                    "MATH 358",
+                    "MATH 243",
+                    "MATH 255",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "MATH 578",
+                "course_title": "Numerical Analysis 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-578",
+                "prerequisites": [
+                    "MATH 247",
+                    "MATH 251",
+                    "MATH 387"
+                ]
+            },
+            {
+                "course_number": "MATH 587",
+                "course_title": "Advanced Probability Theory 1",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-587",
+                "prerequisites": [
+                    "MATH 356",
+                    "MATH 255",
+                    "MATH 243"
+                ]
+            },
+            {
+                "course_number": "MATH 594",
+                "course_title": "Topics in Mathematics and Statistics\r",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-594",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 424",
+                "course_title": "Artificial Intelligence",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-424",
+                "prerequisites": [
+                    "COMP 206",
+                    "ECSE 321",
+                    "MATH 323",
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 462",
+                "course_title": "Computational Biology Methods",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-462",
+                "prerequisites": [
+                    "COMP 251",
+                    "MATH 323",
+                    "MATH 203",
+                    "BIOL 309"
+                ]
+            },
+            {
+                "course_number": "COMP 540",
+                "course_title": "Matrix Computations",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-540",
+                "prerequisites": [
+                    "MATH 327",
+                    "COMP 350"
+                ]
+            },
+            {
+                "course_number": "COMP 547",
+                "course_title": "Cryptography and Data Security",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-547",
+                "prerequisites": [
+                    "COMP 360",
+                    "COMP 362",
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "COMP 551",
+                "course_title": "Applied Machine Learning",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-551",
+                "prerequisites": [
+                    "MATH 323",
+                    "ECSE 205",
+                    "COMP 202",
+                    "MATH 133",
+                    "MATH 222"
+                ]
+            },
+            {
+                "course_number": "COMP 552",
+                "course_title": "Combinatorial Optimization",
+                "credits": 4,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-552",
+                "prerequisites": [
+                    "COMP 362"
+                ]
+            },
+            {
+                "course_number": "COMP 564",
+                "course_title": "Advanced Computational Biology Methods and Research",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-564",
+                "prerequisites": [
+                    "COMP 462"
+                ]
+            },
+            {
+                "course_number": "COMP 566",
+                "course_title": "Discrete Optimization 1",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-566",
+                "prerequisites": [
+                    "COMP 360",
+                    "MATH 223"
+                ]
+            },
+            {
+                "course_number": "COMP 567",
+                "course_title": "Discrete Optimization 2",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-567",
+                "prerequisites": [
+                    "COMP 566",
+                    "MATH 417"
+                ]
+            }
+        ]
+    },
+    {
+        "program": "Bachelor of Science (B.Sc.) - Liberal Program - Core Science Component Computer Science (45 credits)",
+        "program_url": "https://www.mcgill.ca/study/2024-2025/faculties/science/undergraduate/programs/bachelor-science-bsc-liberal-program-core-science-component-computer-science",
+        "courses": [
+            {
+                "course_number": "COMP 202",
+                "course_title": "Foundations of Programming",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-202",
+                "prerequisites": []
+            },
+            {
+                "course_number": "COMP 206",
+                "course_title": "Introduction to Software Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-206",
+                "prerequisites": [
+                    "COMP 202",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 250",
+                "course_title": "Introduction to Computer Science",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-250",
+                "prerequisites": [
+                    "MATH 140",
+                    "COMP 202",
+                    "COMP 204",
+                    "COMP 208"
+                ]
+            },
+            {
+                "course_number": "COMP 251",
+                "course_title": "Algorithms and Data Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-251",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 235",
+                    "MATH 240"
+                ]
+            },
+            {
+                "course_number": "COMP 273",
+                "course_title": "Introduction to Computer Systems",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-273",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 240",
+                "course_title": "Discrete Structures",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-240",
+                "prerequisites": []
+            },
+            {
+                "course_number": "MATH 222",
+                "course_title": "Calculus 3",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-222",
+                "prerequisites": [
+                    "MATH 141",
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 323",
+                "course_title": "Probability",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-323",
+                "prerequisites": [
+                    "MATH 141"
+                ]
+            },
+            {
+                "course_number": "MATH 324",
+                "course_title": "Statistics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-324",
+                "prerequisites": [
+                    "MATH 323"
+                ]
+            },
+            {
+                "course_number": "MATH 223",
+                "course_title": "Linear Algebra",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-223",
+                "prerequisites": [
+                    "MATH 133"
+                ]
+            },
+            {
+                "course_number": "MATH 318",
+                "course_title": "Mathematical Logic",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-318",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "MATH 340",
+                "course_title": "Discrete\r Mathematics",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/math-340",
+                "prerequisites": [
+                    "MATH 235",
+                    "MATH 240",
+                    "MATH 242"
+                ]
+            },
+            {
+                "course_number": "COMP 330",
+                "course_title": "Theory of Computation",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-330",
+                "prerequisites": [
+                    "COMP 251"
+                ]
+            },
+            {
+                "course_number": "COMP 350",
+                "course_title": "Numerical Computing",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-350",
+                "prerequisites": [
+                    "MATH 222",
+                    "MATH 223",
+                    "COMP 202",
+                    "COMP 208",
+                    "COMP 250"
+                ]
+            },
+            {
+                "course_number": "COMP 360",
+                "course_title": "Algorithm Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-360",
+                "prerequisites": [
+                    "COMP 251",
+                    "COMP 252",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 363"
+                ]
+            },
+            {
+                "course_number": "COMP 302",
+                "course_title": "Programming Languages and Paradigms",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-302",
+                "prerequisites": [
+                    "COMP 250",
+                    "MATH 240",
+                    "MATH 235",
+                    "MATH 318",
+                    "COMP 230",
+                    "PHIL 210"
+                ]
+            },
+            {
+                "course_number": "COMP 303",
+                "course_title": "Software Design",
+                "credits": 3,
+                "link": "https://www.mcgill.ca/study/2024-2025/courses/comp-303",
+                "prerequisites": [
+                    "COMP 206",
+                    "COMP 250"
+                ]
+            }
+        ]
+    }
+]
